@@ -1,0 +1,3218 @@
+date_ordered,time_ordered,order_id,user_id,type,product_category
+1,1,7026578,12026081,Credit Package Purchase,1
+1,1,7026584,12026081,Auction Win,1
+1,1,7026635,12026132,Credit Package Purchase,1
+1,1,7026662,12026237,Credit Package Purchase,1
+1,1,7026677,12026237,Auction Win,1
+1,1,7026686,12026264,Credit Package Purchase,1
+1,1,7026695,12026264,Auction Win,1
+1,1,7026698,12026273,Credit Package Purchase,1
+1,1,7026701,12026273,Auction Win,1
+1,1,7026740,12026273,Auction Win,1
+1,1,7026743,12026273,Auction Win,1
+1,1,7026755,12026351,Credit Package Purchase,1
+1,1,7026758,12026351,Auction Win,1
+1,1,7026761,12026348,Credit Package Purchase,1
+1,1,7026764,12026381,Credit Package Purchase,1
+1,1,7026776,12026426,Credit Package Purchase,1
+1,1,7026782,12026489,Credit Package Purchase,1
+1,1,7026791,12026555,Credit Package Purchase,1
+1,1,7026812,12026636,Credit Package Purchase,1
+1,1,7026818,12026555,Auction Win,1
+1,1,7026824,12026381,Auction Win,1
+1,1,7026827,12026555,Auction Win,1
+1,1,7026833,12026555,Auction Win,1
+1,1,7026836,12026693,Credit Package Purchase,1
+1,1,7026839,12026708,Credit Package Purchase,1
+1,1,7026842,12026132,Auction Win,1
+1,1,7026845,12026693,Auction Win,1
+1,1,7026851,12026555,Credit Package Purchase,1
+1,1,7026860,12026753,Credit Package Purchase,1
+1,1,7026866,12026807,Credit Package Purchase,1
+1,1,7026890,12026081,Credit Package Purchase,1
+1,1,7026905,12026555,Credit Package Purchase,1
+1,1,7026911,12026879,Credit Package Purchase,1
+1,1,7026923,12026189,Credit Package Purchase,1
+1,1,7026929,12026885,Credit Package Purchase,1
+1,1,7026935,12026879,Auction Win,1
+1,1,7026938,12026864,Credit Package Purchase,1
+1,1,7026947,12026555,Credit Package Purchase,1
+1,1,7026950,12026555,Credit Package Purchase,1
+1,1,7026956,12026924,Credit Package Purchase,1
+1,1,7026959,12026081,Credit Package Purchase,1
+1,1,7026962,12026942,Credit Package Purchase,1
+1,1,7026974,12026951,Credit Package Purchase,1
+1,1,7026980,12026951,Auction Win,1
+1,1,7026986,12026879,Auction Win,1
+1,1,7026992,12026555,Credit Package Purchase,1
+1,1,7026995,12026942,Auction Win,1
+1,1,7027001,12027005,Credit Package Purchase,1
+1,1,7027004,12026555,Auction Win,1
+1,1,7027010,12026987,Credit Package Purchase,1
+1,1,7027013,12027029,Credit Package Purchase,1
+1,1,7027025,12027080,Credit Package Purchase,1
+1,1,7027028,12026081,Credit Package Purchase,1
+1,1,7027034,12026885,Auction Win,1
+1,1,7027052,12027170,Credit Package Purchase,1
+1,1,7027055,12026348,Credit Package Purchase,1
+1,1,7027058,12027188,Credit Package Purchase,1
+1,1,7027064,12027191,Credit Package Purchase,1
+1,1,7027067,12027197,Credit Package Purchase,1
+1,1,7027109,12026081,Credit Package Purchase,1
+1,1,7027115,12027317,Credit Package Purchase,1
+1,1,7027124,12027305,Credit Package Purchase,1
+1,1,7027130,12027308,Credit Package Purchase,1
+1,1,7027142,12027344,Credit Package Purchase,1
+1,1,7027145,12027374,Credit Package Purchase,1
+1,1,7027157,12027449,Credit Package Purchase,1
+1,1,7027160,12027482,Credit Package Purchase,1
+1,1,7027172,12027308,Credit Package Purchase,1
+1,1,7027175,12026081,Credit Package Purchase,1
+1,1,7027178,12027197,Auction Win,1
+1,1,7027184,12027449,Auction Win,1
+1,1,7027193,12026081,Credit Package Purchase,1
+1,1,7027196,12027527,Credit Package Purchase,1
+1,1,7027205,12027527,Auction Win,1
+1,1,7027211,12027629,Credit Package Purchase,1
+1,1,7027214,12027632,Credit Package Purchase,1
+1,1,7027223,12027629,Auction Win,1
+1,1,7027238,12027632,Auction Win,1
+1,1,7027244,12027698,Credit Package Purchase,1
+1,1,7027265,12027734,Credit Package Purchase,1
+1,1,7027277,12027260,Credit Package Purchase,1
+1,1,7027283,12027629,Buy Now Purchase,1
+1,1,7027301,12027671,Credit Package Purchase,1
+1,1,7027316,12027857,Credit Package Purchase,1
+1,1,7027331,12027005,Auction Win,1
+1,1,7027334,12027866,Credit Package Purchase,1
+1,1,7027337,12027881,Credit Package Purchase,1
+1,1,7027340,12027191,Credit Package Purchase,1
+1,1,7027346,12027893,Credit Package Purchase,1
+1,1,7027364,12027881,Auction Win,1
+1,1,7027370,12027005,Credit Package Purchase,1
+1,1,7027388,12027932,Credit Package Purchase,1
+1,1,7027403,12027893,Auction Win,1
+1,1,7027409,12027959,Credit Package Purchase,1
+1,1,7027418,12027950,Credit Package Purchase,1
+1,1,7027439,12027986,Credit Package Purchase,1
+1,1,7027442,12026987,Auction Win,1
+1,1,7027460,12028055,Credit Package Purchase,1
+1,1,7027469,12028061,Credit Package Purchase,1
+1,1,7027475,12028121,Credit Package Purchase,1
+1,1,7027478,12027632,Auction Win,1
+1,1,7027490,12028043,Credit Package Purchase,1
+1,1,7027496,12028025,Credit Package Purchase,1
+1,1,7027502,12027005,Credit Package Purchase,1
+1,1,7027505,12028130,Credit Package Purchase,1
+1,1,7027520,12028202,Credit Package Purchase,1
+1,1,7027526,12028241,Credit Package Purchase,1
+1,1,7027532,12028130,Auction Win,1
+1,1,7027535,12028202,Auction Win,1
+1,1,7027556,12027005,Auction Win,1
+1,1,7027568,12027005,Credit Package Purchase,1
+1,1,7027589,12028400,Credit Package Purchase,1
+1,1,7027598,12028370,Credit Package Purchase,1
+1,1,7027601,12028403,Credit Package Purchase,1
+1,1,7027604,12028370,Auction Win,1
+1,1,7027607,12028445,Credit Package Purchase,1
+1,1,7027610,12028445,Auction Win,1
+1,1,7027613,12027005,Credit Package Purchase,1
+1,1,7027616,12028436,Credit Package Purchase,1
+1,1,7027634,12028511,Credit Package Purchase,1
+1,1,7027643,12028520,Credit Package Purchase,1
+1,1,7027646,12028403,Auction Win,1
+1,1,7027649,12027005,Credit Package Purchase,1
+1,1,7027655,12028403,Auction Win,1
+1,1,7027685,12028682,Credit Package Purchase,1
+1,1,7027697,12028520,Auction Win,1
+1,1,7027709,12026351,Auction Win,1
+1,1,7027718,12028652,Credit Package Purchase,1
+1,1,7027724,12028673,Credit Package Purchase,1
+1,1,7027733,12028712,Credit Package Purchase,1
+1,1,7027742,12028715,Credit Package Purchase,1
+1,1,7027748,12028715,Auction Win,1
+1,1,7027757,12028778,Credit Package Purchase,1
+1,1,7027772,12028712,Credit Package Purchase,1
+1,1,7027775,12028682,Auction Win,1
+1,1,7027784,12028802,Credit Package Purchase,1
+1,1,7027790,12028712,Credit Package Purchase,1
+1,1,7027799,12028835,Credit Package Purchase,1
+1,1,7027805,12028817,Credit Package Purchase,1
+1,1,7027808,12028874,Credit Package Purchase,1
+1,1,7027811,12028712,Credit Package Purchase,1
+1,1,7027814,12026738,Credit Package Purchase,1
+1,1,7027826,12028835,Auction Win,1
+1,1,7027832,12028712,Credit Package Purchase,1
+1,1,7027835,12028445,Auction Win,1
+1,1,7027841,12029012,Credit Package Purchase,1
+1,1,7027844,12029015,Credit Package Purchase,1
+1,1,7027850,12028712,Credit Package Purchase,1
+1,1,7027853,12028979,Credit Package Purchase,1
+1,1,7027856,12028712,Credit Package Purchase,1
+1,1,7027859,12029027,Credit Package Purchase,1
+1,1,7027865,12029063,Credit Package Purchase,1
+1,1,7027871,12029012,Auction Win,1
+1,1,7027883,12029039,Credit Package Purchase,1
+1,1,7027886,12028445,Auction Win,1
+1,1,7027895,12028778,Auction Win,1
+1,1,7027898,12029126,Credit Package Purchase,1
+1,1,7027904,12029063,Auction Win,1
+1,1,7027910,12029039,Auction Win,1
+1,1,7027916,12029063,Auction Win,1
+1,1,7027925,12029210,Credit Package Purchase,1
+1,1,7027931,12029063,Auction Win,1
+1,1,7027934,12029039,Auction Win,1
+1,1,7027937,12028817,Auction Win,1
+1,1,7027940,12029246,Credit Package Purchase,1
+1,1,7027943,12029258,Credit Package Purchase,1
+1,1,7027955,12029258,Auction Win,1
+1,1,7027958,12029279,Credit Package Purchase,1
+1,1,7027961,12029273,Credit Package Purchase,1
+1,1,7027970,12029306,Credit Package Purchase,1
+1,1,7027976,12029306,Auction Win,1
+1,1,7027991,12029063,Auction Win,1
+1,1,7028012,12028778,Credit Package Purchase,1
+1,1,7028027,12029306,Auction Win,1
+1,1,7028030,12029465,Credit Package Purchase,1
+1,1,7028036,12029510,Credit Package Purchase,1
+1,1,7028045,12026270,Credit Package Purchase,1
+1,1,7028051,12029513,Credit Package Purchase,1
+1,1,7028093,12029513,Auction Win,1
+1,1,7028111,12029324,Credit Package Purchase,1
+1,1,7028123,12029588,Credit Package Purchase,1
+1,1,7028168,12029747,Credit Package Purchase,1
+1,1,7028171,12029762,Credit Package Purchase,1
+1,1,7028186,12029750,Credit Package Purchase,1
+1,1,7028192,12029315,Credit Package Purchase,1
+1,1,7028201,12029315,Auction Win,1
+1,1,7028204,12029831,Credit Package Purchase,1
+1,1,7028210,12029279,Auction Win,1
+1,1,7028225,12029852,Credit Package Purchase,1
+1,1,7028231,12029843,Credit Package Purchase,1
+1,1,7028234,12029840,Credit Package Purchase,1
+1,1,7028243,12029762,Auction Win,1
+1,1,7028246,12029852,Credit Package Purchase,1
+1,1,7028249,12029831,Auction Win,1
+1,1,7028279,12029279,Auction Win,1
+1,1,7028294,12030038,Credit Package Purchase,1
+1,1,7028297,12030053,Credit Package Purchase,1
+1,1,7028306,12030107,Credit Package Purchase,1
+1,1,7028312,12029831,Auction Win,1
+1,1,7028315,12028802,Credit Package Purchase,1
+1,1,7028318,12030107,Auction Win,1
+1,1,7028324,12030146,Credit Package Purchase,1
+1,1,7028327,12030146,Auction Win,1
+1,1,7028330,12030170,Credit Package Purchase,1
+1,1,7028345,12030170,Auction Win,1
+1,1,7028372,12030308,Credit Package Purchase,1
+1,1,7028378,12030320,Credit Package Purchase,1
+1,1,7028384,12027881,Credit Package Purchase,1
+1,1,7028387,12028202,Credit Package Purchase,1
+1,1,7028390,12028202,Buy Now Purchase,1
+1,1,7028429,12030386,Credit Package Purchase,1
+1,1,7028438,12030446,Credit Package Purchase,1
+1,1,7028447,12027881,Credit Package Purchase,1
+1,1,7028459,12030485,Credit Package Purchase,1
+1,1,7028462,12030470,Credit Package Purchase,1
+1,1,7028468,12030494,Credit Package Purchase,1
+1,1,7028480,12030446,Credit Package Purchase,1
+1,1,7028483,12030545,Credit Package Purchase,1
+1,1,7028495,12030545,Auction Win,1
+1,1,7028504,12030446,Credit Package Purchase,1
+1,1,7028513,12027881,Credit Package Purchase,1
+1,1,7028516,12026426,Auction Win,1
+1,1,7028525,12030593,Credit Package Purchase,1
+1,1,7028531,12028682,Credit Package Purchase,1
+1,1,7028534,12030446,Auction Win,1
+1,1,7028537,12028202,Buy Now Purchase,1
+1,1,7028552,12028202,Credit Package Purchase,1
+1,1,7028558,12030668,Credit Package Purchase,1
+1,1,7028564,12030485,Auction Win,1
+1,1,7028570,12027881,Credit Package Purchase,1
+1,1,7028576,12030494,Credit Package Purchase,1
+1,1,7028588,12030710,Credit Package Purchase,1
+1,1,7028591,12030728,Credit Package Purchase,1
+1,1,7028615,12027881,Credit Package Purchase,1
+1,1,7028618,12030485,Credit Package Purchase,1
+1,1,7028621,12030782,Credit Package Purchase,1
+1,1,7028627,12030722,Credit Package Purchase,1
+1,1,7028633,12029804,Credit Package Purchase,1
+1,1,7028636,12030446,Buy Now Purchase,1
+1,1,7028639,12030827,Credit Package Purchase,1
+1,1,7028645,12030722,Auction Win,1
+1,1,7028648,12030830,Credit Package Purchase,1
+1,1,7028654,12030839,Credit Package Purchase,1
+1,1,7028663,12030854,Credit Package Purchase,1
+2,2,7028669,12030830,Auction Win,1
+2,2,7028678,12027881,Credit Package Purchase,1
+2,2,7028696,12030728,Auction Win,1
+2,1,7028699,12030920,Credit Package Purchase,1
+2,2,7028711,12027260,Auction Win,1
+2,2,7028720,12027260,Auction Win,1
+2,1,7028723,12030977,Credit Package Purchase,1
+2,1,7028729,12030920,Auction Win,1
+2,1,7028738,12031004,Credit Package Purchase,1
+2,1,7028741,12031004,Auction Win,1
+2,1,7028747,12031031,Credit Package Purchase,1
+2,1,7028750,12031004,Auction Win,1
+2,2,7028756,12029804,Auction Win,1
+2,1,7028777,12031064,Credit Package Purchase,1
+2,1,7028786,12031064,Auction Win,1
+2,1,7028795,12031079,Credit Package Purchase,1
+2,1,7028810,12031094,Credit Package Purchase,1
+2,1,7028816,12031091,Credit Package Purchase,1
+2,1,7028819,12031064,Auction Win,1
+2,1,7028822,12031091,Auction Win,1
+2,1,7028825,12031094,Auction Win,1
+2,1,7028831,12031079,Auction Win,1
+2,1,7028843,12031142,Credit Package Purchase,1
+2,1,7028864,12031226,Credit Package Purchase,1
+2,2,7028873,12030677,Credit Package Purchase,1
+2,2,7028879,12030752,Credit Package Purchase,1
+2,2,7028885,12026636,Auction Win,1
+2,2,7028888,12030677,Auction Win,1
+2,1,7028891,12031304,Credit Package Purchase,1
+2,1,7028900,12031313,Credit Package Purchase,1
+2,2,7028936,12030320,Auction Win,1
+2,2,7028939,12030320,Auction Win,1
+2,2,7028987,12026636,Buy Now Purchase,1
+2,1,7028993,12031454,Credit Package Purchase,1
+2,1,7029002,12031475,Credit Package Purchase,1
+2,1,7029008,12031502,Credit Package Purchase,1
+2,1,7029020,12031547,Credit Package Purchase,1
+2,1,7029023,12031532,Credit Package Purchase,1
+2,1,7029038,12031532,Auction Win,1
+2,1,7029047,12031622,Credit Package Purchase,1
+2,1,7029053,12031532,Auction Win,1
+2,1,7029056,12031655,Credit Package Purchase,1
+2,1,7029068,12031661,Credit Package Purchase,1
+2,1,7029077,12031706,Credit Package Purchase,1
+2,1,7029089,12031694,Credit Package Purchase,1
+2,1,7029101,12031748,Credit Package Purchase,1
+2,1,7029104,12031661,Auction Win,1
+2,1,7029110,12031706,Auction Win,1
+2,1,7029116,12031706,Auction Win,1
+2,1,7029125,12031805,Credit Package Purchase,1
+2,1,7029134,12031865,Credit Package Purchase,1
+2,1,7029137,12031886,Credit Package Purchase,1
+2,1,7029149,12031880,Credit Package Purchase,1
+2,1,7029152,12031898,Credit Package Purchase,1
+2,1,7029155,12031886,Auction Win,1
+2,1,7029158,12031949,Credit Package Purchase,1
+2,1,7029164,12031805,Credit Package Purchase,1
+2,1,7029185,12031655,Auction Win,1
+2,1,7029209,12032063,Credit Package Purchase,1
+2,1,7029221,12032063,Auction Win,1
+2,1,7029227,12031865,Auction Win,1
+2,1,7029233,12032084,Credit Package Purchase,1
+2,1,7029236,12031865,Buy Now Purchase,1
+2,1,7029242,12032123,Credit Package Purchase,1
+2,1,7029248,12032102,Credit Package Purchase,1
+2,1,7029251,12032123,Auction Win,1
+2,1,7029260,12032084,Auction Win,1
+2,1,7029263,12031553,Credit Package Purchase,1
+2,1,7029269,12032162,Credit Package Purchase,1
+2,1,7029272,12031946,Credit Package Purchase,1
+2,1,7029278,12032231,Credit Package Purchase,1
+2,1,7029284,12031946,Auction Win,1
+2,1,7029290,12032252,Credit Package Purchase,1
+2,1,7029299,12032231,Auction Win,1
+2,1,7029302,12032276,Credit Package Purchase,1
+2,1,7029305,12032291,Credit Package Purchase,1
+2,1,7029317,12032084,Auction Win,1
+2,1,7029326,12032063,Auction Win,1
+2,1,7029341,12032333,Credit Package Purchase,1
+2,1,7029347,12032390,Credit Package Purchase,1
+2,1,7029350,12032366,Credit Package Purchase,1
+2,1,7029353,12032123,Auction Win,1
+2,1,7029359,12032282,Credit Package Purchase,1
+2,1,7029365,12031949,Credit Package Purchase,1
+2,1,7029368,12032402,Credit Package Purchase,1
+2,1,7029374,12031880,Auction Win,1
+2,1,7029386,12032282,Auction Win,1
+2,1,7029413,12032576,Credit Package Purchase,1
+2,1,7029416,12032579,Credit Package Purchase,1
+2,2,7029419,12026987,Credit Package Purchase,1
+2,1,7029428,12032366,Auction Win,1
+2,2,7029431,12030752,Auction Win,1
+2,1,7029434,12032618,Credit Package Purchase,1
+2,1,7029443,12032282,Auction Win,1
+2,1,7029446,12031949,Auction Win,1
+2,1,7029449,12032735,Credit Package Purchase,1
+2,1,7029452,12032282,Buy Now Purchase,1
+2,1,7029455,12032801,Credit Package Purchase,1
+2,1,7029461,12032828,Credit Package Purchase,1
+2,2,7029479,12030842,Credit Package Purchase,1
+2,1,7029494,12032852,Credit Package Purchase,1
+2,1,7029497,12032618,Auction Win,1
+2,1,7029506,12032957,Credit Package Purchase,1
+2,1,7029509,12032282,Buy Now Purchase,1
+2,1,7029512,12032993,Credit Package Purchase,1
+2,2,7029521,12030842,Auction Win,1
+2,1,7029536,12032993,Auction Win,1
+2,1,7029539,12033023,Credit Package Purchase,1
+2,1,7029551,12032801,Auction Win,1
+2,1,7029557,12033092,Credit Package Purchase,1
+2,1,7029566,12033137,Credit Package Purchase,1
+2,1,7029572,12033152,Credit Package Purchase,1
+2,1,7029581,12032993,Auction Win,1
+2,1,7029587,12033161,Credit Package Purchase,1
+2,1,7029590,12033203,Credit Package Purchase,1
+2,1,7029596,12033137,Auction Win,1
+2,1,7029608,12033161,Auction Win,1
+2,2,7029632,12030782,Credit Package Purchase,1
+2,1,7029635,12033305,Credit Package Purchase,1
+2,1,7029719,12033458,Credit Package Purchase,1
+2,1,7029722,12033398,Credit Package Purchase,1
+2,1,7029746,12031532,Buy Now Purchase,1
+2,1,7029773,12033524,Credit Package Purchase,1
+2,1,7029779,12033548,Credit Package Purchase,1
+2,1,7029788,12033524,Auction Win,1
+2,1,7029791,12033578,Credit Package Purchase,1
+2,1,7029794,12033569,Credit Package Purchase,1
+2,1,7029806,12032282,Auction Win,1
+2,1,7029815,12033677,Credit Package Purchase,1
+2,1,7029824,12032282,Auction Win,1
+2,1,7029836,12031886,Auction Win,2
+2,1,7029881,12033005,Credit Package Purchase,1
+2,1,7029884,12033893,Credit Package Purchase,1
+2,1,7029917,12033923,Credit Package Purchase,1
+2,1,7029965,12034058,Credit Package Purchase,1
+2,1,7030070,12034226,Credit Package Purchase,1
+2,1,7030082,12034199,Credit Package Purchase,1
+2,1,7030121,12034259,Credit Package Purchase,1
+2,1,7030136,12034163,Credit Package Purchase,1
+2,1,7030169,12032639,Credit Package Purchase,1
+2,1,7030181,12034244,Credit Package Purchase,1
+2,1,7030184,12033893,Auction Win,1
+2,1,7030205,12032801,Auction Win,1
+2,1,7030223,12031532,Credit Package Purchase,1
+2,1,7030238,12034412,Credit Package Purchase,1
+2,1,7030241,12032537,Credit Package Purchase,1
+2,1,7030247,12033923,Auction Win,1
+2,1,7030250,12034394,Credit Package Purchase,1
+2,1,7030268,12034550,Credit Package Purchase,1
+2,1,7030274,12034394,Auction Win,1
+2,1,7030286,12034163,Auction Win,1
+2,1,7030289,12034568,Credit Package Purchase,1
+2,1,7030292,12034163,Auction Win,1
+2,1,7030298,12034619,Credit Package Purchase,1
+2,1,7030310,12034619,Credit Package Purchase,1
+2,1,7030319,12034619,Auction Win,1
+2,1,7030334,12034694,Credit Package Purchase,1
+2,1,7030340,12034712,Credit Package Purchase,1
+2,1,7030343,12031532,Buy Now Purchase,1
+2,1,7030355,12033923,Auction Win,1
+2,1,7030370,12034760,Credit Package Purchase,1
+2,1,7030373,12034730,Credit Package Purchase,1
+2,1,7030376,12034769,Credit Package Purchase,1
+2,2,7030382,12030320,Credit Package Purchase,1
+2,1,7030385,12034394,Auction Win,1
+2,1,7030391,12034820,Credit Package Purchase,1
+2,1,7030397,12034802,Credit Package Purchase,1
+2,1,7030400,12034820,Auction Win,1
+2,1,7030403,12034244,Auction Win,1
+2,1,7030412,12034694,Auction Win,1
+2,1,7030415,12034859,Credit Package Purchase,1
+2,1,7030424,12034730,Credit Package Purchase,1
+2,1,7030433,12034802,Auction Win,1
+2,1,7030439,12034928,Credit Package Purchase,1
+2,1,7030451,12034937,Credit Package Purchase,1
+2,1,7030457,12034946,Credit Package Purchase,1
+2,1,7030460,12034730,Credit Package Purchase,1
+2,1,7030463,12034928,Auction Win,1
+2,1,7030496,12034970,Credit Package Purchase,1
+2,1,7030505,12034730,Credit Package Purchase,1
+2,2,7030508,12030320,Buy Now Purchase,1
+2,1,7030517,12035093,Credit Package Purchase,1
+2,1,7030532,12035084,Credit Package Purchase,1
+2,1,7030553,12035090,Credit Package Purchase,1
+2,1,7030568,12031532,Buy Now Purchase,1
+2,1,7030577,12032801,Buy Now Purchase,1
+2,2,7030583,12030053,Auction Win,1
+2,1,7030595,12035207,Credit Package Purchase,1
+2,1,7030598,12035090,Auction Win,1
+2,1,7030628,12035276,Credit Package Purchase,1
+2,1,7030637,12033986,Credit Package Purchase,1
+2,1,7030643,12035189,Credit Package Purchase,1
+2,1,7030658,12035312,Credit Package Purchase,1
+2,1,7030670,12035345,Credit Package Purchase,1
+2,1,7030682,12035294,Credit Package Purchase,1
+2,1,7030688,12033548,Auction Win,1
+2,1,7030715,12035366,Credit Package Purchase,1
+2,1,7030733,12035357,Credit Package Purchase,1
+2,1,7030742,12035294,Auction Win,1
+2,1,7030769,12035453,Credit Package Purchase,1
+2,1,7030799,12035453,Auction Win,1
+2,2,7030805,12026426,Auction Win,1
+2,2,7030814,12026426,Auction Win,1
+2,1,7030829,12035597,Credit Package Purchase,1
+2,2,7030832,12026426,Auction Win,1
+2,2,7030841,12030677,Credit Package Purchase,1
+2,2,7030847,12030710,Credit Package Purchase,1
+2,1,7030862,12034619,Auction Win,1
+2,1,7030883,12035717,Credit Package Purchase,1
+2,1,7030898,12035759,Credit Package Purchase,1
+2,1,7030919,12035807,Credit Package Purchase,1
+2,1,7030922,12034619,Auction Win,1
+2,1,7030934,12035822,Credit Package Purchase,1
+2,1,7030967,12035789,Credit Package Purchase,1
+2,1,7030988,12035921,Credit Package Purchase,1
+2,1,7030991,12035873,Credit Package Purchase,1
+2,1,7030997,12035948,Credit Package Purchase,1
+2,1,7031000,12035960,Credit Package Purchase,1
+2,1,7031006,12035999,Credit Package Purchase,1
+2,1,7031012,12034619,Buy Now Purchase,1
+2,1,7031036,12036050,Credit Package Purchase,1
+2,1,7031072,12036050,Auction Win,1
+2,1,7031084,12036140,Credit Package Purchase,1
+2,2,7031087,12028229,Credit Package Purchase,1
+2,1,7031093,12036152,Credit Package Purchase,1
+2,2,7031102,12030485,Credit Package Purchase,1
+2,1,7031108,12034214,Credit Package Purchase,1
+2,2,7031111,12028229,Auction Win,1
+2,1,7031138,12032735,Credit Package Purchase,1
+2,2,7031141,12028229,Auction Win,1
+2,2,7031147,12030494,Credit Package Purchase,1
+2,1,7031156,12036278,Credit Package Purchase,1
+2,1,7031159,12035999,Credit Package Purchase,1
+2,1,7031165,12031655,Auction Win,1
+2,1,7031168,12035999,Auction Win,1
+2,1,7031177,12035759,Credit Package Purchase,1
+2,1,7031204,12036344,Credit Package Purchase,1
+2,1,7031207,12036152,Credit Package Purchase,1
+2,1,7031219,12035999,Auction Win,1
+2,1,7031225,12036386,Credit Package Purchase,1
+2,1,7031228,12035759,Credit Package Purchase,1
+2,1,7031231,12036398,Credit Package Purchase,1
+2,1,7031273,12036425,Credit Package Purchase,1
+2,1,7031276,12036476,Credit Package Purchase,1
+2,1,7031288,12036470,Credit Package Purchase,1
+2,1,7031294,12036467,Credit Package Purchase,1
+2,1,7031300,12036506,Credit Package Purchase,1
+2,1,7031306,12036515,Credit Package Purchase,1
+2,1,7031315,12035759,Credit Package Purchase,1
+2,1,7031336,12036506,Auction Win,1
+2,1,7031360,12036467,Credit Package Purchase,1
+2,1,7031381,12036617,Credit Package Purchase,1
+2,1,7031387,12036617,Auction Win,1
+2,1,7031390,12035759,Credit Package Purchase,1
+2,1,7031405,12036467,Credit Package Purchase,1
+2,1,7031408,12036701,Credit Package Purchase,1
+2,1,7031420,12036737,Credit Package Purchase,1
+2,1,7031426,12036467,Credit Package Purchase,1
+2,1,7031450,12036344,Auction Win,1
+2,1,7031453,12036701,Auction Win,1
+3,2,7031459,12035759,Credit Package Purchase,1
+3,2,7031486,12036344,Auction Win,1
+3,2,7031489,12035759,Credit Package Purchase,1
+3,1,7031501,12036797,Credit Package Purchase,1
+3,2,7031522,12031142,Auction Win,1
+3,1,7031531,12036884,Credit Package Purchase,1
+3,1,7031534,12036899,Credit Package Purchase,1
+3,1,7031540,12036899,Auction Win,1
+3,3,7031546,12026738,Auction Win,1
+3,1,7031585,12036974,Credit Package Purchase,1
+3,1,7031597,12036974,Auction Win,1
+3,1,7031609,12036986,Credit Package Purchase,1
+3,2,7031627,12035333,Credit Package Purchase,1
+3,1,7031633,12036998,Credit Package Purchase,1
+3,1,7031636,12036998,Auction Win,1
+3,2,7031654,12031532,Buy Now Purchase,1
+3,2,7031660,12031532,Buy Now Purchase,1
+3,3,7031666,12026708,Auction Win,1
+3,3,7031669,12026708,Auction Win,1
+3,1,7031675,12037130,Credit Package Purchase,1
+3,1,7031678,12037130,Auction Win,1
+3,1,7031684,12037148,Credit Package Purchase,1
+3,1,7031690,12037109,Credit Package Purchase,1
+3,2,7031696,12033104,Credit Package Purchase,1
+3,2,7031699,12033104,Auction Win,1
+3,1,7031702,12037172,Credit Package Purchase,1
+3,3,7031708,12027005,Buy Now Purchase,1
+3,1,7031711,12037223,Credit Package Purchase,1
+3,1,7031717,12037238,Credit Package Purchase,1
+3,1,7031723,12037247,Credit Package Purchase,1
+3,1,7031726,12037280,Credit Package Purchase,1
+3,2,7031729,12033398,Auction Win,1
+3,1,7031732,12037244,Credit Package Purchase,1
+3,1,7031738,12037223,Auction Win,1
+3,1,7031744,12037292,Credit Package Purchase,1
+3,1,7031750,12037298,Credit Package Purchase,1
+3,1,7031756,12037247,Auction Win,1
+3,1,7031774,12037349,Credit Package Purchase,1
+3,1,7031792,12037382,Credit Package Purchase,1
+3,1,7031795,12037394,Credit Package Purchase,1
+3,1,7031801,12037412,Credit Package Purchase,1
+3,1,7031804,12037442,Credit Package Purchase,1
+3,1,7031807,12037475,Credit Package Purchase,1
+3,1,7031810,12037475,Auction Win,1
+3,2,7031813,12033203,Auction Win,1
+3,1,7031816,12036986,Auction Win,1
+3,1,7031822,12037505,Credit Package Purchase,1
+3,1,7031825,12037382,Auction Win,1
+3,2,7031828,12031898,Auction Win,1
+3,1,7031831,12037541,Credit Package Purchase,1
+3,1,7031837,12037523,Credit Package Purchase,1
+3,2,7031840,12032291,Auction Win,1
+3,2,7031846,12034214,Auction Win,1
+3,1,7031858,12037637,Credit Package Purchase,1
+3,1,7031867,12037637,Auction Win,1
+3,1,7031879,12037715,Credit Package Purchase,1
+3,3,7031882,12028202,Credit Package Purchase,1
+3,1,7031891,12037799,Credit Package Purchase,1
+3,1,7031900,12037811,Credit Package Purchase,1
+3,1,7031903,12037670,Credit Package Purchase,1
+3,1,7031906,12037790,Credit Package Purchase,1
+3,1,7031918,12037670,Auction Win,1
+3,1,7031936,12037784,Credit Package Purchase,1
+3,2,7031939,12032084,Auction Win,1
+3,1,7031945,12037883,Credit Package Purchase,1
+3,1,7031948,12037802,Credit Package Purchase,1
+3,1,7031951,12037856,Credit Package Purchase,1
+3,1,7031957,12037784,Auction Win,1
+3,1,7031963,12037892,Credit Package Purchase,1
+3,1,7031975,12037790,Auction Win,1
+3,3,7031978,12026879,Buy Now Purchase,1
+3,1,7031981,12037892,Auction Win,1
+3,1,7031987,12037964,Credit Package Purchase,1
+3,2,7032002,12035954,Credit Package Purchase,1
+3,2,7032005,12033161,Credit Package Purchase,1
+3,1,7032017,12038006,Credit Package Purchase,1
+3,1,7032023,12038036,Credit Package Purchase,1
+3,1,7032026,12038015,Credit Package Purchase,1
+3,1,7032038,12038036,Auction Win,1
+3,3,7032041,12028229,Credit Package Purchase,1
+3,2,7032047,12033161,Credit Package Purchase,1
+3,1,7032053,12037964,Auction Win,1
+3,1,7032056,12037802,Auction Win,1
+3,1,7032059,12037802,Auction Win,1
+3,3,7032062,12030320,Credit Package Purchase,1
+3,2,7032068,12033161,Credit Package Purchase,1
+3,1,7032074,12037802,Credit Package Purchase,1
+3,1,7032083,12038138,Credit Package Purchase,1
+3,1,7032086,12038006,Auction Win,1
+3,1,7032089,12038138,Auction Win,1
+3,1,7032095,12037394,Credit Package Purchase,1
+3,1,7032104,12037883,Credit Package Purchase,1
+3,2,7032116,12036470,Credit Package Purchase,1
+3,1,7032119,12038162,Credit Package Purchase,1
+3,2,7032125,12033923,Buy Now Purchase,1
+3,1,7032134,12038210,Credit Package Purchase,1
+3,1,7032161,12038270,Credit Package Purchase,1
+3,1,7032176,12038321,Credit Package Purchase,1
+3,3,7032191,12030320,Buy Now Purchase,1
+3,1,7032194,12038405,Credit Package Purchase,1
+3,3,7032197,12030830,Credit Package Purchase,1
+3,2,7032209,12033923,Buy Now Purchase,1
+3,2,7032230,12036506,Auction Win,1
+3,2,7032239,12035357,Auction Win,1
+3,1,7032242,12038498,Credit Package Purchase,1
+3,2,7032245,12033161,Credit Package Purchase,1
+3,1,7032251,12038561,Credit Package Purchase,1
+3,1,7032254,12038564,Credit Package Purchase,1
+3,1,7032266,12038432,Credit Package Purchase,1
+3,1,7032272,12038138,Credit Package Purchase,1
+3,1,7032275,12038432,Auction Win,1
+3,2,7032284,12031655,Auction Win,1
+3,1,7032287,12038138,Buy Now Purchase,1
+3,1,7032293,12038675,Credit Package Purchase,1
+3,2,7032302,12031706,Buy Now Purchase,1
+3,1,7032308,12038762,Credit Package Purchase,1
+3,1,7032314,12038783,Credit Package Purchase,1
+3,1,7032329,12037505,Auction Win,1
+3,1,7032332,12038789,Credit Package Purchase,1
+3,1,7032335,12038432,Auction Win,1
+3,1,7032347,12038831,Credit Package Purchase,1
+3,2,7032350,12035339,Credit Package Purchase,1
+3,1,7032356,12038789,Auction Win,1
+3,1,7032362,12038897,Credit Package Purchase,1
+3,1,7032368,12038894,Credit Package Purchase,1
+3,1,7032377,12038846,Credit Package Purchase,1
+3,1,7032386,12038909,Credit Package Purchase,1
+3,1,7032389,12038918,Credit Package Purchase,1
+3,1,7032398,12038954,Credit Package Purchase,1
+3,1,7032404,12038138,Credit Package Purchase,1
+3,2,7032407,12036344,Buy Now Purchase,1
+3,1,7032410,12038948,Credit Package Purchase,1
+3,1,7032422,12039038,Credit Package Purchase,1
+3,1,7032431,12038786,Auction Win,1
+3,1,7032440,12038945,Credit Package Purchase,1
+3,1,7032443,12039071,Credit Package Purchase,1
+3,1,7032458,12038945,Auction Win,1
+3,2,7032461,12036344,Auction Win,1
+3,1,7032464,12038954,Auction Win,1
+3,1,7032467,12039071,Auction Win,1
+3,1,7032479,12038138,Buy Now Purchase,1
+3,2,7032488,12034769,Auction Win,1
+3,1,7032491,12038951,Credit Package Purchase,1
+3,1,7032494,12039305,Credit Package Purchase,1
+3,1,7032497,12039071,Auction Win,1
+3,1,7032500,12039344,Credit Package Purchase,1
+3,1,7032503,12039386,Credit Package Purchase,1
+3,1,7032506,12039386,Auction Win,1
+3,1,7032509,12039413,Credit Package Purchase,1
+3,1,7032512,12039449,Credit Package Purchase,1
+3,3,7032515,12028202,Credit Package Purchase,1
+3,1,7032518,12039491,Credit Package Purchase,1
+3,1,7032524,12039521,Credit Package Purchase,1
+3,1,7032536,12039413,Credit Package Purchase,1
+3,1,7032548,12039560,Credit Package Purchase,1
+3,1,7032557,12039560,Auction Win,1
+3,1,7032560,12039578,Credit Package Purchase,1
+3,1,7032569,12039413,Credit Package Purchase,1
+3,1,7032572,12038786,Auction Win,1
+3,1,7032590,12039413,Auction Win,1
+3,1,7032599,12039659,Credit Package Purchase,1
+3,1,7032608,12039623,Credit Package Purchase,1
+3,1,7032611,12039677,Credit Package Purchase,1
+3,1,7032626,12039623,Auction Win,1
+3,2,7032632,12035012,Credit Package Purchase,1
+3,1,7032644,12039749,Credit Package Purchase,1
+3,1,7032647,12039746,Credit Package Purchase,1
+3,1,7032650,12039470,Credit Package Purchase,1
+3,1,7032653,12039764,Credit Package Purchase,1
+3,2,7032665,12031142,Buy Now Purchase,1
+3,1,7032671,12039749,Auction Win,1
+3,3,7032674,12028202,Auction Win,1
+3,1,7032677,12039842,Credit Package Purchase,1
+3,1,7032680,12039863,Credit Package Purchase,1
+3,1,7032686,12039749,Buy Now Purchase,1
+3,1,7032692,12039905,Credit Package Purchase,1
+3,1,7032695,12039875,Credit Package Purchase,1
+3,1,7032698,12039071,Auction Win,1
+3,1,7032701,12039917,Credit Package Purchase,1
+3,1,7032710,12039677,Auction Win,1
+3,3,7032716,12030830,Auction Win,1
+3,1,7032719,12039965,Credit Package Purchase,1
+3,1,7032725,12038564,Auction Win,1
+3,1,7032728,12039968,Credit Package Purchase,1
+3,1,7032743,12038840,Credit Package Purchase,1
+3,1,7032746,12039980,Credit Package Purchase,1
+3,1,7032749,12038840,Auction Win,1
+3,1,7032761,12039659,Auction Win,1
+3,1,7032767,12039659,Buy Now Purchase,1
+3,1,7032773,12038786,Auction Win,1
+3,2,7032776,12036425,Auction Win,1
+3,1,7032785,12040010,Credit Package Purchase,1
+3,3,7032806,12030320,Buy Now Purchase,1
+3,1,7032812,12040145,Credit Package Purchase,1
+3,1,7032821,12040151,Credit Package Purchase,1
+3,1,7032836,12040208,Credit Package Purchase,1
+3,1,7032839,12039968,Auction Win,1
+3,3,7032842,12028715,Credit Package Purchase,1
+3,1,7032845,12039917,Credit Package Purchase,1
+3,1,7032848,12040151,Buy Now Purchase,1
+3,2,7032857,12032084,Buy Now Purchase,1
+3,1,7032863,12040010,Auction Win,1
+3,3,7032881,12030446,Buy Now Purchase,1
+3,3,7032884,12030446,Buy Now Purchase,1
+3,3,7032896,12030446,Buy Now Purchase,1
+3,3,7032908,12030446,Buy Now Purchase,1
+3,3,7032914,12030446,Buy Now Purchase,1
+3,3,7032923,12030446,Buy Now Purchase,1
+3,1,7032938,12040292,Credit Package Purchase,1
+3,1,7032953,12040382,Credit Package Purchase,1
+3,3,7032959,12030320,Buy Now Purchase,1
+3,1,7032965,12039659,Credit Package Purchase,1
+3,1,7032971,12038954,Auction Win,1
+3,1,7032986,12039659,Credit Package Purchase,1
+3,2,7033004,12036344,Credit Package Purchase,1
+3,1,7033007,12039659,Credit Package Purchase,1
+3,3,7033025,12026273,Buy Now Purchase,1
+3,3,7033028,12030320,Credit Package Purchase,1
+3,1,7033031,12039659,Credit Package Purchase,1
+3,1,7033037,12040382,Auction Win,1
+3,1,7033043,12040568,Credit Package Purchase,1
+3,3,7033049,12030446,Buy Now Purchase,1
+3,3,7033052,12026381,Credit Package Purchase,1
+3,1,7033061,12039659,Credit Package Purchase,1
+3,1,7033067,12040010,Auction Win,1
+3,3,7033103,12030446,Buy Now Purchase,1
+3,1,7033106,12038831,Auction Win,1
+3,3,7033112,12026381,Buy Now Purchase,1
+3,1,7033121,12040700,Credit Package Purchase,1
+3,1,7033127,12040382,Auction Win,1
+3,1,7033163,12040751,Credit Package Purchase,1
+3,1,7033172,12040772,Credit Package Purchase,1
+3,1,7033178,12038783,Auction Win,1
+3,1,7033199,12039470,Credit Package Purchase,1
+3,1,7033205,12040775,Credit Package Purchase,1
+3,1,7033220,12040826,Credit Package Purchase,1
+3,1,7033223,12040700,Auction Win,1
+3,1,7033229,12040865,Credit Package Purchase,1
+3,2,7033244,12034394,Buy Now Purchase,1
+3,1,7033250,12040865,Auction Win,1
+3,1,7033262,12040898,Credit Package Purchase,1
+3,3,7033265,12028712,Buy Now Purchase,1
+3,1,7033268,12040865,Auction Win,1
+3,1,7033271,12040889,Credit Package Purchase,1
+3,1,7033274,12040934,Credit Package Purchase,1
+3,1,7033277,12040922,Credit Package Purchase,1
+3,1,7033283,12040922,Auction Win,1
+3,3,7033298,12028712,Buy Now Purchase,1
+3,1,7033301,12040826,Auction Win,1
+3,3,7033304,12028712,Buy Now Purchase,1
+3,2,7033310,12031532,Buy Now Purchase,1
+3,2,7033316,12034619,Buy Now Purchase,1
+3,1,7033340,12041045,Credit Package Purchase,1
+3,1,7033346,12037670,Buy Now Purchase,1
+3,3,7033349,12026381,Buy Now Purchase,1
+3,2,7033352,12031886,Credit Package Purchase,1
+3,1,7033355,12041045,Credit Package Purchase,1
+3,1,7033367,12041195,Credit Package Purchase,1
+3,1,7033376,12041177,Credit Package Purchase,1
+3,1,7033379,12041174,Credit Package Purchase,1
+3,1,7033382,12038840,Credit Package Purchase,1
+3,1,7033388,12041045,Credit Package Purchase,1
+3,1,7033397,12039071,Buy Now Purchase,1
+3,1,7033400,12041177,Auction Win,1
+3,1,7033409,12041210,Credit Package Purchase,1
+3,3,7033412,12026381,Buy Now Purchase,1
+3,3,7033436,12027305,Auction Win,1
+3,1,7033442,12041045,Credit Package Purchase,1
+3,1,7033457,12040382,Credit Package Purchase,1
+3,1,7033466,12041303,Credit Package Purchase,1
+3,1,7033469,12041282,Credit Package Purchase,1
+3,1,7033487,12041045,Credit Package Purchase,1
+3,1,7033493,12041327,Credit Package Purchase,1
+3,1,7033496,12040826,Auction Win,1
+3,1,7033502,12041321,Credit Package Purchase,1
+3,1,7033505,12038078,Credit Package Purchase,1
+3,1,7033523,12041282,Auction Win,1
+3,1,7033535,12041390,Credit Package Purchase,1
+3,1,7033541,12041303,Auction Win,1
+3,1,7033547,12041363,Credit Package Purchase,1
+3,1,7033553,12041381,Credit Package Purchase,1
+3,1,7033571,12041411,Credit Package Purchase,1
+3,1,7033577,12041429,Credit Package Purchase,1
+3,3,7033586,12029747,Auction Win,1
+3,1,7033595,12041456,Credit Package Purchase,1
+3,1,7033601,12041045,Credit Package Purchase,1
+3,1,7033604,12041321,Credit Package Purchase,1
+3,1,7033613,12041429,Auction Win,1
+3,1,7033616,12041363,Auction Win,1
+3,1,7033619,12040922,Credit Package Purchase,1
+3,1,7033622,12040775,Auction Win,1
+3,1,7033625,12040700,Buy Now Purchase,1
+3,2,7033628,12034619,Buy Now Purchase,1
+3,1,7033634,12041321,Credit Package Purchase,1
+3,1,7033640,12041579,Credit Package Purchase,1
+3,1,7033649,12041381,Auction Win,1
+3,1,7033655,12041603,Credit Package Purchase,1
+3,1,7033658,12041624,Credit Package Purchase,1
+3,1,7033664,12040208,Auction Win,1
+3,1,7033679,12041672,Credit Package Purchase,1
+3,1,7033685,12037637,Buy Now Purchase,1
+3,1,7033691,12040772,Auction Win,1
+3,1,7033709,12039491,Buy Now Purchase,1
+3,1,7033721,12039470,Auction Win,1
+3,1,7033724,12041744,Credit Package Purchase,1
+3,1,7033727,12038561,Credit Package Purchase,1
+3,1,7033733,12041795,Credit Package Purchase,1
+3,1,7033736,12039491,Auction Win,1
+3,1,7033739,12041798,Credit Package Purchase,1
+3,1,7033748,12041807,Credit Package Purchase,1
+3,1,7033751,12041813,Credit Package Purchase,1
+3,1,7033760,12041816,Credit Package Purchase,1
+3,1,7033763,12041825,Credit Package Purchase,1
+3,1,7033766,12041813,Auction Win,1
+3,1,7033775,12038561,Credit Package Purchase,1
+3,1,7033781,12041795,Auction Win,1
+3,1,7033787,12038561,Auction Win,1
+3,1,7033802,12041876,Credit Package Purchase,1
+3,1,7033811,12041705,Credit Package Purchase,1
+3,1,7033814,12041891,Credit Package Purchase,1
+3,1,7033820,12041921,Credit Package Purchase,1
+3,1,7033823,12041045,Credit Package Purchase,1
+3,1,7033826,12038036,Credit Package Purchase,1
+3,1,7033829,12041948,Credit Package Purchase,1
+3,1,7033835,12041966,Credit Package Purchase,1
+3,1,7033859,12040850,Credit Package Purchase,1
+3,1,7033877,12036926,Credit Package Purchase,1
+3,1,7033895,12042041,Credit Package Purchase,1
+3,1,7033901,12040850,Auction Win,1
+3,1,7033907,12042092,Credit Package Purchase,1
+3,1,7033913,12042074,Credit Package Purchase,1
+3,3,7033916,12027188,Credit Package Purchase,1
+3,1,7033919,12042116,Credit Package Purchase,1
+3,1,7033925,12041045,Auction Win,1
+3,1,7033928,12042041,Auction Win,1
+3,1,7033937,12041813,Buy Now Purchase,1
+3,1,7033940,12041813,Credit Package Purchase,1
+3,1,7033952,12041948,Auction Win,1
+3,1,7033967,12041045,Buy Now Purchase,1
+3,1,7033970,12042167,Credit Package Purchase,1
+3,1,7033994,12039470,Credit Package Purchase,1
+3,1,7034006,12041813,Credit Package Purchase,1
+3,1,7034021,12042116,Auction Win,1
+3,1,7034030,12042224,Credit Package Purchase,1
+3,1,7034036,12041813,Credit Package Purchase,1
+3,1,7034045,12042248,Credit Package Purchase,1
+3,1,7034048,12042272,Credit Package Purchase,1
+3,1,7034051,12042284,Credit Package Purchase,1
+3,1,7034054,12042272,Auction Win,1
+3,1,7034057,12041813,Credit Package Purchase,1
+3,1,7034066,12038138,Buy Now Purchase,1
+3,1,7034069,12042278,Credit Package Purchase,1
+3,1,7034072,12041813,Credit Package Purchase,1
+3,1,7034093,12042278,Auction Win,1
+3,1,7034096,12041813,Credit Package Purchase,1
+3,1,7034099,12041813,Credit Package Purchase,1
+4,2,7034129,12042359,Credit Package Purchase,1
+4,4,7034147,12029063,Credit Package Purchase,1
+4,1,7034165,12042434,Credit Package Purchase,1
+4,1,7034168,12042425,Credit Package Purchase,1
+4,2,7034174,12037130,Credit Package Purchase,1
+4,3,7034177,12036386,Auction Win,1
+4,1,7034195,12042488,Credit Package Purchase,1
+4,1,7034201,12042464,Credit Package Purchase,1
+4,1,7034216,12042509,Credit Package Purchase,1
+4,1,7034225,12042488,Auction Win,1
+4,2,7034228,12038138,Credit Package Purchase,1
+4,1,7034231,12042521,Credit Package Purchase,1
+4,1,7034237,12042521,Auction Win,1
+4,1,7034243,12042551,Credit Package Purchase,1
+4,1,7034249,12042563,Credit Package Purchase,1
+4,1,7034252,12042563,Auction Win,1
+4,1,7034261,12042521,Auction Win,1
+4,1,7034267,12042599,Credit Package Purchase,1
+4,1,7034270,12042608,Credit Package Purchase,1
+4,1,7034273,12042599,Auction Win,1
+4,2,7034282,12038138,Auction Win,1
+4,1,7034288,12042626,Credit Package Purchase,1
+4,1,7034291,12042599,Auction Win,1
+4,1,7034294,12042626,Auction Win,1
+4,1,7034303,12042671,Credit Package Purchase,1
+4,1,7034306,12042677,Credit Package Purchase,1
+4,1,7034321,12042677,Auction Win,1
+4,1,7034333,12042701,Credit Package Purchase,1
+4,1,7034339,12042713,Credit Package Purchase,1
+4,1,7034342,12042671,Auction Win,1
+4,1,7034363,12042818,Credit Package Purchase,1
+4,1,7034366,12042839,Credit Package Purchase,1
+4,1,7034378,12042830,Credit Package Purchase,1
+4,1,7034387,12042836,Credit Package Purchase,1
+4,1,7034396,12042854,Credit Package Purchase,1
+4,1,7034399,12042827,Credit Package Purchase,1
+4,2,7034405,12039206,Credit Package Purchase,1
+4,1,7034414,12042890,Credit Package Purchase,1
+4,1,7034417,12042854,Auction Win,1
+4,1,7034459,12042977,Credit Package Purchase,1
+4,2,7034465,12039659,Buy Now Purchase,1
+4,1,7034474,12042941,Auction Win,1
+4,1,7034492,12043040,Credit Package Purchase,1
+4,1,7034519,12043058,Credit Package Purchase,1
+4,1,7034534,12043076,Credit Package Purchase,1
+4,1,7034546,12043088,Credit Package Purchase,1
+4,2,7034552,12039413,Buy Now Purchase,1
+4,1,7034558,12043130,Credit Package Purchase,1
+4,1,7034570,12042521,Credit Package Purchase,1
+4,1,7034585,12043172,Credit Package Purchase,1
+4,1,7034594,12043145,Credit Package Purchase,1
+4,2,7034600,12039413,Credit Package Purchase,1
+4,1,7034603,12042941,Buy Now Purchase,1
+4,1,7034606,12043232,Credit Package Purchase,1
+4,1,7034609,12043226,Credit Package Purchase,1
+4,1,7034615,12043232,Auction Win,1
+4,1,7034618,12043271,Credit Package Purchase,1
+4,1,7034621,12043313,Credit Package Purchase,1
+4,1,7034636,12043355,Credit Package Purchase,1
+4,3,7034648,12033578,Buy Now Purchase,1
+4,3,7034660,12032282,Credit Package Purchase,1
+4,2,7034666,12039470,Buy Now Purchase,1
+4,1,7034672,12043415,Credit Package Purchase,1
+4,1,7034675,12043412,Credit Package Purchase,1
+4,1,7034681,12042839,Auction Win,1
+4,1,7034687,12043460,Credit Package Purchase,1
+4,1,7034690,12043232,Auction Win,1
+4,1,7034696,12043415,Auction Win,1
+4,1,7034708,12043493,Credit Package Purchase,1
+4,1,7034717,12043451,Credit Package Purchase,1
+4,1,7034726,12043547,Credit Package Purchase,1
+4,1,7034738,12043493,Auction Win,1
+4,1,7034750,12043361,Credit Package Purchase,1
+4,1,7034753,12043361,Auction Win,1
+4,1,7034756,12043580,Credit Package Purchase,1
+4,1,7034768,12043580,Auction Win,1
+4,1,7034783,12043601,Credit Package Purchase,1
+4,1,7034795,12043613,Credit Package Purchase,1
+4,1,7034801,12043661,Credit Package Purchase,1
+4,1,7034804,12043271,Auction Win,1
+4,1,7034825,12043709,Credit Package Purchase,1
+4,1,7034837,12043718,Credit Package Purchase,1
+4,1,7034855,12043613,Auction Win,1
+4,1,7034858,12043601,Credit Package Purchase,1
+4,1,7034864,12043451,Auction Win,1
+4,1,7034867,12043733,Credit Package Purchase,1
+4,1,7034873,12043763,Credit Package Purchase,1
+4,1,7034879,12043739,Credit Package Purchase,1
+4,1,7034888,12043601,Credit Package Purchase,1
+4,1,7034894,12043781,Credit Package Purchase,1
+4,1,7034903,12043811,Credit Package Purchase,1
+4,1,7034909,12043826,Credit Package Purchase,1
+4,1,7034915,12043601,Credit Package Purchase,1
+4,1,7034921,12043313,Auction Win,1
+4,2,7034924,12039206,Credit Package Purchase,1
+4,1,7034930,12043739,Auction Win,1
+4,1,7034945,12043853,Credit Package Purchase,1
+4,1,7034948,12043910,Credit Package Purchase,1
+4,1,7034951,12043901,Credit Package Purchase,1
+4,1,7034957,12043895,Credit Package Purchase,1
+4,2,7034966,12039206,Credit Package Purchase,1
+4,1,7034981,12043523,Credit Package Purchase,1
+4,2,7034987,12039206,Credit Package Purchase,1
+4,2,7035002,12039206,Credit Package Purchase,1
+4,1,7035008,12043601,Auction Win,2
+4,1,7035011,12044081,Credit Package Purchase,1
+4,1,7035014,12044045,Credit Package Purchase,1
+4,1,7035017,12044117,Credit Package Purchase,1
+4,1,7035023,12044096,Credit Package Purchase,1
+4,2,7035026,12039206,Credit Package Purchase,1
+4,2,7035029,12039206,Credit Package Purchase,1
+4,1,7035032,12044180,Credit Package Purchase,1
+4,1,7035041,12044189,Credit Package Purchase,1
+4,1,7035047,12044234,Credit Package Purchase,1
+4,1,7035053,12044240,Credit Package Purchase,1
+4,1,7035059,12044174,Credit Package Purchase,1
+4,2,7035071,12037088,Credit Package Purchase,1
+4,1,7035077,12044267,Credit Package Purchase,1
+4,1,7035092,12043739,Credit Package Purchase,1
+4,1,7035104,12044360,Credit Package Purchase,1
+4,1,7035110,12042755,Credit Package Purchase,1
+4,1,7035116,12044396,Credit Package Purchase,1
+4,2,7035119,12039206,Auction Win,2
+4,1,7035125,12044384,Credit Package Purchase,1
+4,2,7035134,12040997,Credit Package Purchase,1
+4,1,7035149,12044492,Credit Package Purchase,1
+4,1,7035158,12044492,Auction Win,1
+4,1,7035167,12044507,Credit Package Purchase,1
+4,1,7035170,12044378,Credit Package Purchase,1
+4,2,7035176,12040382,Buy Now Purchase,1
+4,1,7035179,12044510,Credit Package Purchase,1
+4,1,7035182,12042464,Auction Win,1
+4,1,7035191,12043853,Auction Win,1
+4,1,7035197,12044558,Credit Package Purchase,1
+4,1,7035227,12044483,Credit Package Purchase,1
+4,1,7035233,12044615,Credit Package Purchase,1
+4,1,7035239,12044600,Credit Package Purchase,1
+4,1,7035242,12044510,Auction Win,1
+4,1,7035278,12044717,Credit Package Purchase,1
+4,1,7035284,12044762,Credit Package Purchase,1
+4,1,7035290,12044777,Credit Package Purchase,1
+4,1,7035299,12044744,Credit Package Purchase,1
+4,1,7035302,12044810,Credit Package Purchase,1
+4,1,7035308,12044600,Auction Win,1
+4,1,7035311,12044744,Auction Win,1
+4,1,7035314,12044546,Credit Package Purchase,1
+4,1,7035320,12044861,Credit Package Purchase,1
+4,1,7035323,12044867,Credit Package Purchase,1
+4,1,7035326,12044891,Credit Package Purchase,1
+4,1,7035329,12044873,Credit Package Purchase,1
+4,1,7035332,12044825,Credit Package Purchase,1
+4,1,7035359,12044600,Auction Win,1
+4,1,7035371,12044921,Credit Package Purchase,1
+4,1,7035377,12045023,Credit Package Purchase,1
+4,1,7035398,12044600,Auction Win,1
+4,1,7035401,12044909,Credit Package Purchase,1
+4,1,7035407,12044546,Auction Win,1
+4,1,7035410,12044867,Auction Win,1
+4,1,7035419,12045113,Credit Package Purchase,1
+4,1,7035440,12044717,Credit Package Purchase,1
+4,1,7035446,12045164,Credit Package Purchase,1
+4,1,7035455,12044267,Auction Win,1
+4,1,7035467,12045179,Credit Package Purchase,1
+4,1,7035482,12045161,Credit Package Purchase,1
+4,1,7035491,12045179,Auction Win,1
+4,1,7035500,12045161,Auction Win,1
+4,2,7035509,12040382,Buy Now Purchase,1
+4,2,7035527,12039659,Auction Win,1
+4,1,7035533,12045206,Credit Package Purchase,1
+4,1,7035542,12045218,Credit Package Purchase,1
+4,1,7035548,12043130,Auction Win,1
+4,1,7035575,12044717,Credit Package Purchase,1
+4,1,7035581,12045224,Credit Package Purchase,1
+4,1,7035593,12045323,Credit Package Purchase,1
+4,1,7035608,12045269,Credit Package Purchase,1
+4,1,7035611,12043910,Auction Win,1
+4,1,7035620,12045386,Credit Package Purchase,1
+4,4,7035629,12028229,Buy Now Purchase,1
+4,1,7035644,12045335,Credit Package Purchase,1
+4,1,7035650,12045401,Credit Package Purchase,1
+4,1,7035659,12045386,Auction Win,1
+4,1,7035665,12044717,Credit Package Purchase,1
+4,3,7035680,12034769,Credit Package Purchase,1
+4,1,7035704,12045605,Credit Package Purchase,1
+4,1,7035713,12044717,Credit Package Purchase,1
+4,1,7035725,12045593,Credit Package Purchase,1
+4,1,7035740,12045605,Auction Win,1
+4,1,7035746,12044717,Credit Package Purchase,1
+4,1,7035758,12044717,Credit Package Purchase,1
+4,1,7035770,12045683,Credit Package Purchase,1
+4,1,7035776,12045689,Credit Package Purchase,1
+4,2,7035851,12039305,Auction Win,1
+4,1,7035860,12045803,Credit Package Purchase,1
+4,1,7035863,12045779,Credit Package Purchase,1
+4,1,7035869,12045803,Auction Win,1
+4,1,7035872,12045779,Auction Win,1
+4,1,7035887,12045140,Credit Package Purchase,1
+4,1,7035899,12045854,Credit Package Purchase,1
+4,1,7035902,12045062,Credit Package Purchase,1
+4,1,7035914,12045779,Credit Package Purchase,1
+4,1,7035920,12045929,Credit Package Purchase,1
+4,2,7035926,12037394,Buy Now Purchase,1
+4,1,7035932,12045944,Credit Package Purchase,1
+4,1,7035941,12045929,Auction Win,1
+4,1,7035944,12044396,Auction Win,1
+4,1,7035956,12045944,Auction Win,1
+4,1,7035965,12045062,Auction Win,1
+4,1,7035971,12045779,Credit Package Purchase,1
+4,1,7035974,12046061,Credit Package Purchase,1
+4,2,7035977,12039305,Buy Now Purchase,1
+4,1,7035983,12046145,Credit Package Purchase,1
+4,1,7035995,12046145,Auction Win,1
+4,1,7036010,12046208,Credit Package Purchase,1
+4,1,7036016,12046196,Credit Package Purchase,1
+4,1,7036019,12046208,Auction Win,1
+4,1,7036025,12046202,Credit Package Purchase,1
+4,1,7036034,12046058,Credit Package Purchase,1
+4,1,7036046,12045161,Auction Win,1
+4,1,7036052,12046202,Credit Package Purchase,1
+4,1,7036058,12046346,Credit Package Purchase,1
+4,1,7036067,12046358,Credit Package Purchase,1
+4,1,7036073,12046376,Credit Package Purchase,1
+4,1,7036082,12043040,Auction Win,1
+4,1,7036094,12046397,Credit Package Purchase,1
+4,1,7036097,12046397,Auction Win,1
+4,1,7036115,12046202,Credit Package Purchase,1
+4,3,7036124,12036506,Buy Now Purchase,1
+4,1,7036133,12046514,Credit Package Purchase,1
+4,3,7036142,12036506,Buy Now Purchase,1
+4,1,7036145,12046517,Credit Package Purchase,1
+4,1,7036148,12046553,Credit Package Purchase,1
+4,4,7036157,12030830,Credit Package Purchase,1
+4,1,7036163,12042854,Auction Win,1
+4,1,7036166,12046622,Credit Package Purchase,1
+4,1,7036172,12046358,Auction Win,1
+4,1,7036175,12046628,Credit Package Purchase,1
+4,2,7036178,12038498,Credit Package Purchase,1
+4,1,7036196,12046664,Credit Package Purchase,1
+4,1,7036205,12046649,Credit Package Purchase,1
+4,1,7036223,12046649,Auction Win,1
+4,1,7036229,12046664,Auction Win,1
+4,4,7036232,12026753,Auction Win,1
+4,1,7036244,12046757,Credit Package Purchase,1
+4,1,7036253,12046622,Auction Win,1
+4,1,7036259,12046781,Credit Package Purchase,1
+4,1,7036265,12046628,Auction Win,1
+4,2,7036268,12041807,Buy Now Purchase,1
+4,2,7036277,12039875,Credit Package Purchase,1
+4,2,7036295,12041807,Credit Package Purchase,1
+4,1,7036301,12046880,Credit Package Purchase,1
+4,1,7036307,12046889,Credit Package Purchase,1
+4,1,7036310,12046889,Auction Win,1
+4,1,7036313,12046889,Auction Win,1
+4,1,7036316,12046781,Auction Win,1
+4,1,7036337,12046946,Credit Package Purchase,1
+4,3,7036346,12035357,Auction Win,1
+4,1,7036367,12046952,Credit Package Purchase,1
+4,1,7036382,12046961,Credit Package Purchase,1
+4,1,7036385,12047027,Credit Package Purchase,1
+4,1,7036400,12043130,Auction Win,1
+4,1,7036403,12046946,Auction Win,1
+4,1,7036412,12047033,Credit Package Purchase,1
+4,1,7036451,12043733,Auction Win,1
+4,4,7036460,12028202,Credit Package Purchase,1
+4,1,7036478,12046376,Auction Win,1
+4,1,7036481,12046376,Auction Win,1
+4,4,7036493,12028202,Credit Package Purchase,1
+4,1,7036511,12047198,Credit Package Purchase,1
+4,1,7036514,12047171,Credit Package Purchase,1
+4,1,7036517,12044945,Credit Package Purchase,1
+4,1,7036520,12047198,Auction Win,1
+4,1,7036523,12045683,Auction Win,1
+4,1,7036529,12047210,Credit Package Purchase,1
+4,1,7036538,12047210,Auction Win,1
+4,1,7036541,12046253,Credit Package Purchase,1
+4,2,7036550,12042116,Buy Now Purchase,1
+4,1,7036559,12047306,Credit Package Purchase,1
+4,1,7036565,12047162,Credit Package Purchase,1
+4,1,7036568,12046253,Auction Win,1
+4,1,7036574,12047171,Auction Win,1
+4,2,7036577,12042116,Credit Package Purchase,1
+4,1,7036583,12047171,Auction Win,1
+4,1,7036586,12047306,Auction Win,1
+4,1,7036589,12047345,Credit Package Purchase,1
+4,1,7036592,12047318,Credit Package Purchase,1
+4,1,7036595,12047357,Credit Package Purchase,1
+4,1,7036598,12047381,Credit Package Purchase,1
+4,1,7036601,12047381,Auction Win,1
+5,2,7036625,12047390,Credit Package Purchase,1
+5,2,7036628,12047408,Credit Package Purchase,1
+5,1,7036631,12047426,Credit Package Purchase,1
+5,1,7036637,12047435,Credit Package Purchase,1
+5,2,7036640,12047408,Auction Win,1
+5,2,7036649,12047390,Auction Win,1
+5,2,7036655,12044774,Credit Package Purchase,1
+5,2,7036664,12044774,Auction Win,1
+5,1,7036673,12047486,Credit Package Purchase,1
+5,1,7036676,12047495,Credit Package Purchase,1
+5,2,7036682,12047390,Auction Win,1
+5,1,7036700,12047486,Auction Win,1
+5,1,7036706,12047546,Credit Package Purchase,1
+5,1,7036721,12047546,Auction Win,1
+5,1,7036736,12047576,Credit Package Purchase,1
+5,2,7036739,12042521,Credit Package Purchase,1
+5,5,7036742,12029747,Auction Win,1
+5,1,7036751,12047612,Credit Package Purchase,1
+5,1,7036754,12047612,Auction Win,1
+5,1,7036760,12047630,Credit Package Purchase,1
+5,1,7036772,12047651,Credit Package Purchase,1
+5,1,7036778,12047645,Credit Package Purchase,1
+5,1,7036796,12047729,Credit Package Purchase,1
+5,1,7036805,12047783,Credit Package Purchase,1
+5,1,7036817,12047840,Credit Package Purchase,1
+5,1,7036841,12047864,Credit Package Purchase,1
+5,1,7036844,12047882,Credit Package Purchase,1
+5,1,7036862,12047864,Credit Package Purchase,1
+5,1,7036880,12047933,Credit Package Purchase,1
+5,1,7036883,12047906,Credit Package Purchase,1
+5,1,7036886,12047840,Auction Win,1
+5,1,7036892,12047831,Credit Package Purchase,1
+5,1,7036895,12047939,Credit Package Purchase,1
+5,1,7036901,12047933,Auction Win,1
+5,2,7036904,12046628,Auction Win,1
+5,1,7036910,12047882,Auction Win,1
+5,3,7036913,12039659,Buy Now Purchase,1
+5,1,7036916,12048014,Credit Package Purchase,1
+5,1,7036925,12048050,Credit Package Purchase,1
+5,3,7036928,12038561,Buy Now Purchase,1
+5,1,7036931,12048062,Credit Package Purchase,1
+5,1,7036934,12048050,Auction Win,1
+5,1,7036937,12048062,Auction Win,1
+5,2,7036940,12046628,Buy Now Purchase,1
+5,1,7036943,12048116,Credit Package Purchase,1
+5,1,7036949,12047612,Auction Win,1
+5,1,7036952,12048122,Credit Package Purchase,1
+5,2,7036955,12046664,Auction Win,1
+5,1,7036958,12048119,Credit Package Purchase,1
+5,1,7036964,12048146,Credit Package Purchase,1
+5,1,7036967,12048149,Credit Package Purchase,1
+5,1,7036973,12048119,Auction Win,1
+5,1,7036985,12048191,Credit Package Purchase,1
+5,1,7036997,12048254,Credit Package Purchase,1
+5,1,7037006,12048227,Credit Package Purchase,1
+5,1,7037015,12048269,Credit Package Purchase,1
+5,1,7037018,12048119,Credit Package Purchase,1
+5,1,7037021,12048305,Credit Package Purchase,1
+5,1,7037033,12048293,Credit Package Purchase,1
+5,1,7037039,12048119,Credit Package Purchase,1
+5,1,7037051,12048308,Credit Package Purchase,1
+5,2,7037063,12042599,Buy Now Purchase,1
+5,3,7037072,12041825,Auction Win,1
+5,1,7037075,12048434,Credit Package Purchase,1
+5,1,7037078,12048188,Credit Package Purchase,1
+5,1,7037081,12048188,Auction Win,1
+5,1,7037084,12048434,Auction Win,1
+5,1,7037090,12048119,Buy Now Purchase,1
+5,1,7037093,12047651,Auction Win,1
+5,1,7037096,12048491,Credit Package Purchase,1
+5,4,7037108,12030932,Credit Package Purchase,1
+5,1,7037111,12048548,Credit Package Purchase,1
+5,1,7037117,12047651,Credit Package Purchase,1
+5,1,7037135,12048629,Credit Package Purchase,1
+5,1,7037141,12048638,Credit Package Purchase,1
+5,1,7037156,12047651,Buy Now Purchase,1
+5,2,7037162,12046922,Credit Package Purchase,1
+5,1,7037174,12047651,Credit Package Purchase,1
+5,2,7037183,12044378,Auction Win,1
+5,2,7037186,12042599,Credit Package Purchase,1
+5,1,7037195,12048761,Credit Package Purchase,1
+5,2,7037213,12046922,Auction Win,1
+5,2,7037222,12043649,Credit Package Purchase,1
+5,1,7037231,12047651,Credit Package Purchase,1
+5,1,7037234,12048875,Credit Package Purchase,1
+5,2,7037240,12043649,Auction Win,1
+5,1,7037243,12048905,Credit Package Purchase,1
+5,1,7037246,12048830,Credit Package Purchase,1
+5,1,7037258,12048896,Credit Package Purchase,1
+5,2,7037273,12044378,Credit Package Purchase,1
+5,1,7037303,12047486,Credit Package Purchase,1
+5,1,7037309,12049052,Credit Package Purchase,1
+5,1,7037315,12047651,Credit Package Purchase,1
+5,1,7037318,12048905,Auction Win,1
+5,1,7037330,12049112,Credit Package Purchase,1
+5,2,7037333,12046922,Auction Win,1
+5,1,7037336,12049103,Credit Package Purchase,1
+5,1,7037345,12049100,Credit Package Purchase,1
+5,1,7037354,12049133,Credit Package Purchase,1
+5,1,7037384,12049052,Auction Win,1
+5,1,7037390,12048146,Credit Package Purchase,1
+5,1,7037399,12049178,Credit Package Purchase,1
+5,1,7037408,12048875,Auction Win,1
+5,1,7037420,12049133,Auction Win,1
+5,1,7037426,12049166,Credit Package Purchase,1
+5,1,7037432,12049208,Credit Package Purchase,1
+5,1,7037435,12049166,Auction Win,1
+5,1,7037441,12049100,Auction Win,1
+5,1,7037447,12049103,Auction Win,1
+5,1,7037453,12049199,Credit Package Purchase,1
+5,1,7037465,12049250,Credit Package Purchase,1
+5,3,7037468,12038498,Credit Package Purchase,1
+5,3,7037474,12039305,Buy Now Purchase,1
+5,1,7037477,12049100,Auction Win,1
+5,1,7037483,12049274,Credit Package Purchase,1
+5,3,7037489,12039659,Credit Package Purchase,1
+5,1,7037498,12049274,Auction Win,1
+5,1,7037519,12049319,Credit Package Purchase,1
+5,1,7037522,12048149,Buy Now Purchase,1
+5,1,7037525,12049103,Buy Now Purchase,1
+5,1,7037534,12049103,Auction Win,1
+5,1,7037540,12049133,Auction Win,1
+5,1,7037549,12049307,Credit Package Purchase,1
+5,2,7037552,12045779,Buy Now Purchase,1
+5,2,7037561,12045779,Buy Now Purchase,1
+5,2,7037564,12043580,Auction Win,1
+5,1,7037573,12048146,Credit Package Purchase,1
+5,2,7037594,12045779,Buy Now Purchase,1
+5,4,7037597,12033161,Buy Now Purchase,1
+5,4,7037600,12033161,Buy Now Purchase,1
+5,2,7037603,12047183,Credit Package Purchase,1
+5,3,7037609,12039659,Credit Package Purchase,1
+5,1,7037612,12049274,Auction Win,1
+5,1,7037615,12049430,Credit Package Purchase,1
+5,1,7037618,12049451,Credit Package Purchase,1
+5,2,7037627,12045779,Buy Now Purchase,1
+5,1,7037633,12049478,Credit Package Purchase,1
+5,1,7037645,12048146,Credit Package Purchase,1
+5,1,7037648,12049517,Credit Package Purchase,1
+5,1,7037657,12048119,Credit Package Purchase,1
+5,1,7037663,12049178,Auction Win,1
+5,1,7037666,12048146,Credit Package Purchase,1
+5,1,7037669,12049544,Credit Package Purchase,1
+5,1,7037675,12049571,Credit Package Purchase,1
+5,1,7037678,12049430,Auction Win,1
+5,1,7037681,12048119,Credit Package Purchase,1
+5,1,7037684,12049559,Credit Package Purchase,1
+5,1,7037690,12049517,Auction Win,1
+5,1,7037693,12048146,Credit Package Purchase,1
+5,1,7037696,12049628,Credit Package Purchase,1
+5,1,7037702,12048146,Credit Package Purchase,1
+5,1,7037705,12049631,Credit Package Purchase,1
+5,1,7037708,12048119,Credit Package Purchase,1
+5,1,7037711,12049631,Auction Win,1
+5,1,7037723,12049598,Credit Package Purchase,1
+5,1,7037726,12048119,Credit Package Purchase,1
+5,1,7037729,12049685,Credit Package Purchase,1
+5,1,7037738,12049697,Credit Package Purchase,1
+5,1,7037741,12049712,Credit Package Purchase,1
+5,1,7037744,12047624,Credit Package Purchase,1
+5,1,7037750,12049706,Credit Package Purchase,1
+5,1,7037756,12047624,Credit Package Purchase,1
+5,1,7037759,12049727,Credit Package Purchase,1
+5,3,7037762,12039659,Credit Package Purchase,1
+5,1,7037774,12049769,Credit Package Purchase,1
+5,1,7037780,12049727,Auction Win,1
+5,1,7037783,12049793,Credit Package Purchase,1
+5,1,7037798,12049790,Credit Package Purchase,1
+5,1,7037801,12049823,Credit Package Purchase,1
+5,2,7037804,12047306,Buy Now Purchase,1
+5,1,7037807,12049688,Credit Package Purchase,1
+5,3,7037810,12039875,Auction Win,1
+5,3,7037822,12039875,Buy Now Purchase,1
+5,1,7037825,12049829,Credit Package Purchase,1
+5,1,7037834,12049874,Credit Package Purchase,1
+5,1,7037837,12048896,Credit Package Purchase,1
+5,1,7037840,12049307,Auction Win,1
+5,2,7037843,12042827,Credit Package Purchase,1
+5,1,7037849,12048896,Credit Package Purchase,1
+5,1,7037864,12050048,Credit Package Purchase,1
+5,1,7037867,12049688,Credit Package Purchase,1
+5,1,7037870,12049706,Auction Win,1
+5,1,7037873,12048227,Credit Package Purchase,1
+5,1,7037876,12050081,Credit Package Purchase,1
+5,1,7037879,12049688,Credit Package Purchase,1
+5,1,7037894,12050099,Credit Package Purchase,1
+5,3,7037897,12039875,Buy Now Purchase,1
+5,1,7037900,12049706,Credit Package Purchase,1
+5,1,7037903,12049688,Auction Win,1
+5,1,7037909,12047645,Auction Win,1
+5,1,7037915,12048119,Credit Package Purchase,1
+5,2,7037924,12043649,Auction Win,1
+5,1,7037927,12050177,Credit Package Purchase,1
+5,1,7037942,12050333,Credit Package Purchase,1
+5,1,7037948,12050348,Credit Package Purchase,1
+5,1,7037951,12049829,Auction Win,1
+5,1,7037954,12048227,Credit Package Purchase,1
+5,1,7037966,12050402,Credit Package Purchase,1
+5,4,7037969,12034727,Credit Package Purchase,1
+5,1,7037987,12050468,Credit Package Purchase,1
+5,1,7037996,12050441,Credit Package Purchase,1
+5,1,7038002,12050438,Credit Package Purchase,1
+5,4,7038008,12034727,Auction Win,1
+5,1,7038011,12050468,Auction Win,1
+5,1,7038014,12048227,Credit Package Purchase,1
+5,1,7038023,12047645,Credit Package Purchase,1
+5,1,7038062,12050438,Auction Win,1
+5,1,7038068,12050618,Credit Package Purchase,1
+5,1,7038077,12050468,Auction Win,1
+5,1,7038080,12048227,Credit Package Purchase,1
+5,1,7038101,12049712,Auction Win,1
+5,1,7038107,12047645,Credit Package Purchase,1
+5,1,7038110,12050711,Credit Package Purchase,1
+5,1,7038113,12050690,Credit Package Purchase,1
+5,1,7038125,12050657,Credit Package Purchase,1
+5,1,7038128,12050696,Credit Package Purchase,1
+5,1,7038134,12050696,Auction Win,1
+5,1,7038137,12050747,Credit Package Purchase,1
+5,3,7038143,12038498,Buy Now Purchase,1
+5,1,7038149,12050441,Auction Win,1
+5,1,7038152,12050756,Credit Package Purchase,1
+5,1,7038155,12050741,Credit Package Purchase,1
+5,1,7038164,12050696,Auction Win,1
+5,1,7038179,12050741,Auction Win,1
+5,1,7038197,12050810,Credit Package Purchase,1
+5,1,7038200,12050804,Credit Package Purchase,1
+5,1,7038206,12049544,Credit Package Purchase,1
+5,1,7038215,12048014,Auction Win,1
+5,1,7038227,12050822,Credit Package Purchase,1
+5,2,7038236,12047183,Auction Win,1
+5,1,7038239,12050822,Auction Win,1
+5,3,7038242,12039875,Credit Package Purchase,1
+5,1,7038245,12050810,Auction Win,1
+5,1,7038248,12050858,Credit Package Purchase,1
+5,1,7038263,12050912,Credit Package Purchase,1
+5,1,7038266,12050333,Buy Now Purchase,1
+5,1,7038269,12050810,Credit Package Purchase,1
+5,1,7038272,12048905,Auction Win,1
+5,1,7038275,12050912,Auction Win,1
+5,1,7038284,12050930,Credit Package Purchase,1
+5,1,7038296,12050810,Buy Now Purchase,1
+5,1,7038305,12050333,Credit Package Purchase,1
+5,1,7038308,12050333,Credit Package Purchase,1
+5,1,7038350,12050930,Auction Win,1
+5,1,7038377,12050927,Credit Package Purchase,1
+5,1,7038389,12050990,Credit Package Purchase,1
+5,1,7038395,12050927,Auction Win,1
+5,1,7038401,12049544,Credit Package Purchase,1
+5,5,7038416,12026381,Buy Now Purchase,1
+5,1,7038419,12050930,Credit Package Purchase,1
+5,1,7038428,12051053,Credit Package Purchase,1
+5,1,7038437,12050333,Buy Now Purchase,1
+5,1,7038440,12049712,Credit Package Purchase,1
+5,1,7038449,12047645,Auction Win,1
+5,1,7038461,12048629,Credit Package Purchase,1
+5,1,7038470,12051077,Credit Package Purchase,1
+5,1,7038473,12049544,Credit Package Purchase,1
+5,1,7038479,12050333,Auction Win,1
+5,1,7038482,12051089,Credit Package Purchase,1
+5,1,7038485,12049712,Auction Win,1
+5,1,7038488,12047651,Buy Now Purchase,1
+5,2,7038491,12046757,Buy Now Purchase,1
+5,1,7038500,12051101,Credit Package Purchase,1
+5,1,7038518,12047651,Buy Now Purchase,1
+5,2,7038521,12046757,Auction Win,1
+5,1,7038524,12050333,Auction Win,1
+5,1,7038527,12051101,Auction Win,1
+5,1,7038536,12050810,Buy Now Purchase,1
+5,1,7038548,12051164,Credit Package Purchase,1
+5,1,7038557,12051191,Credit Package Purchase,1
+5,1,7038575,12051242,Credit Package Purchase,1
+5,1,7038578,12051248,Credit Package Purchase,1
+5,1,7038599,12051269,Credit Package Purchase,1
+5,1,7038605,12051296,Credit Package Purchase,1
+5,1,7038608,12051332,Credit Package Purchase,1
+5,1,7038611,12048629,Credit Package Purchase,1
+5,1,7038614,12051323,Credit Package Purchase,1
+5,1,7038620,12047651,Buy Now Purchase,1
+5,1,7038626,12050333,Buy Now Purchase,1
+5,1,7038629,12047651,Buy Now Purchase,1
+5,1,7038659,12050333,Buy Now Purchase,1
+5,1,7038662,12048905,Auction Win,1
+5,1,7038674,12047651,Buy Now Purchase,1
+5,1,7038677,12050804,Buy Now Purchase,1
+5,1,7038725,12051476,Credit Package Purchase,1
+5,1,7038743,12051566,Credit Package Purchase,1
+5,1,7038746,12051242,Auction Win,1
+5,5,7038749,12027188,Buy Now Purchase,1
+5,2,7038758,12046922,Credit Package Purchase,1
+5,1,7038764,12050990,Auction Win,1
+5,1,7038767,12051617,Credit Package Purchase,1
+5,1,7038773,12051617,Auction Win,1
+5,4,7038782,12034970,Auction Win,1
+5,2,7038788,12046922,Buy Now Purchase,1
+5,2,7038806,12046628,Auction Win,1
+5,1,7038809,12051617,Credit Package Purchase,1
+5,1,7038815,12051713,Credit Package Purchase,1
+5,1,7038818,12051722,Credit Package Purchase,1
+5,1,7038830,12051764,Credit Package Purchase,1
+5,1,7038848,12050810,Credit Package Purchase,1
+5,1,7038881,12051827,Credit Package Purchase,1
+5,1,7038893,12051779,Credit Package Purchase,1
+5,1,7038902,12051842,Credit Package Purchase,1
+5,1,7038923,12051851,Credit Package Purchase,1
+5,1,7038941,12051827,Auction Win,1
+5,1,7038962,12051875,Credit Package Purchase,1
+5,1,7038965,12051713,Auction Win,1
+5,1,7038968,12049712,Credit Package Purchase,1
+5,2,7038971,12047357,Auction Win,1
+5,1,7038974,12051956,Credit Package Purchase,1
+5,1,7038980,12051950,Credit Package Purchase,1
+5,1,7038989,12051953,Credit Package Purchase,1
+5,1,7038992,12051977,Credit Package Purchase,1
+5,2,7038995,12043313,Auction Win,1
+5,1,7038998,12051956,Auction Win,1
+5,1,7039007,12051851,Buy Now Purchase,1
+5,1,7039013,12051851,Auction Win,1
+5,3,7039016,12037790,Buy Now Purchase,1
+5,1,7039019,12051851,Buy Now Purchase,1
+5,1,7039028,12051953,Auction Win,1
+5,1,7039052,12049166,Credit Package Purchase,1
+5,1,7039064,12050969,Credit Package Purchase,1
+5,1,7039067,12052070,Credit Package Purchase,1
+5,1,7039070,12052100,Credit Package Purchase,1
+5,1,7039082,12052100,Auction Win,1
+6,2,7039094,12052130,Credit Package Purchase,1
+6,2,7039100,12049712,Credit Package Purchase,1
+6,2,7039103,12051875,Credit Package Purchase,1
+6,2,7039106,12050969,Auction Win,1
+6,2,7039109,12051977,Auction Win,1
+6,1,7039115,12052157,Credit Package Purchase,1
+6,1,7039118,12052151,Credit Package Purchase,1
+6,2,7039121,12052130,Auction Win,1
+6,1,7039124,12052160,Credit Package Purchase,1
+6,1,7039127,12052136,Credit Package Purchase,1
+6,1,7039133,12052157,Auction Win,1
+6,2,7039136,12049166,Credit Package Purchase,1
+6,1,7039139,12052148,Credit Package Purchase,1
+6,4,7039142,12042140,Credit Package Purchase,1
+6,1,7039157,12052205,Credit Package Purchase,1
+6,1,7039160,12052211,Credit Package Purchase,1
+6,1,7039163,12052217,Credit Package Purchase,1
+6,2,7039166,12052070,Auction Win,1
+6,1,7039175,12052217,Auction Win,1
+6,1,7039181,12052148,Auction Win,1
+6,1,7039184,12052244,Credit Package Purchase,1
+6,1,7039190,12052244,Auction Win,1
+6,1,7039193,12052178,Credit Package Purchase,1
+6,1,7039196,12052178,Auction Win,1
+6,1,7039205,12052271,Credit Package Purchase,1
+6,1,7039214,12052286,Credit Package Purchase,1
+6,1,7039220,12052205,Auction Win,1
+6,1,7039226,12052286,Auction Win,1
+6,1,7039238,12052367,Credit Package Purchase,1
+6,1,7039256,12052400,Credit Package Purchase,1
+6,1,7039259,12052406,Credit Package Purchase,1
+6,1,7039262,12052400,Auction Win,1
+6,1,7039265,12052406,Auction Win,1
+6,1,7039268,12052406,Auction Win,1
+6,1,7039271,12052400,Buy Now Purchase,1
+6,2,7039280,12050804,Auction Win,1
+6,6,7039283,12027188,Auction Win,1
+6,2,7039289,12049100,Buy Now Purchase,1
+6,1,7039292,12052469,Credit Package Purchase,1
+6,3,7039298,12047162,Auction Win,1
+6,4,7039304,12037109,Auction Win,1
+6,1,7039319,12052469,Auction Win,1
+6,2,7039328,12051722,Auction Win,1
+6,1,7039334,12052508,Credit Package Purchase,1
+6,1,7039340,12052514,Credit Package Purchase,1
+6,6,7039343,12027188,Buy Now Purchase,1
+6,2,7039355,12047651,Buy Now Purchase,1
+6,1,7039361,12052574,Credit Package Purchase,1
+6,1,7039364,12052607,Credit Package Purchase,1
+6,1,7039376,12052634,Credit Package Purchase,1
+6,1,7039388,12052688,Credit Package Purchase,1
+6,1,7039403,12052706,Credit Package Purchase,1
+6,2,7039406,12050930,Auction Win,1
+6,1,7039409,12052667,Credit Package Purchase,1
+6,1,7039415,12052781,Credit Package Purchase,1
+6,3,7039418,12046628,Buy Now Purchase,1
+6,2,7039427,12049358,Credit Package Purchase,1
+6,2,7039433,12047651,Credit Package Purchase,1
+6,2,7039439,12049358,Auction Win,1
+6,3,7039448,12042941,Buy Now Purchase,1
+6,2,7039454,12047906,Auction Win,1
+6,1,7039472,12052895,Credit Package Purchase,1
+6,1,7039478,12052853,Credit Package Purchase,1
+6,1,7039484,12052832,Credit Package Purchase,1
+6,2,7039490,12051722,Credit Package Purchase,1
+6,1,7039502,12052634,Buy Now Purchase,1
+6,2,7039505,12047651,Auction Win,1
+6,1,7039523,12052898,Credit Package Purchase,1
+6,6,7039538,12027188,Buy Now Purchase,1
+6,2,7039544,12049451,Auction Win,1
+6,1,7039550,12053033,Credit Package Purchase,1
+6,1,7039559,12053000,Auction Win,1
+6,3,7039565,12046988,Credit Package Purchase,1
+6,2,7039577,12051722,Buy Now Purchase,1
+6,2,7039580,12051593,Credit Package Purchase,1
+6,1,7039589,12053105,Credit Package Purchase,1
+6,1,7039592,12053144,Credit Package Purchase,1
+6,1,7039598,12052898,Auction Win,1
+6,3,7039601,12045218,Credit Package Purchase,1
+6,1,7039610,12052244,Auction Win,1
+6,1,7039616,12053201,Credit Package Purchase,1
+6,3,7039628,12042941,Credit Package Purchase,1
+6,1,7039637,12053246,Credit Package Purchase,1
+6,1,7039649,12053144,Auction Win,1
+6,1,7039682,12053297,Credit Package Purchase,1
+6,1,7039688,12053366,Credit Package Purchase,1
+6,5,7039700,12031880,Auction Win,1
+6,1,7039703,12052541,Credit Package Purchase,1
+6,1,7039724,12053528,Credit Package Purchase,1
+6,1,7039733,12053573,Credit Package Purchase,1
+6,1,7039736,12053567,Credit Package Purchase,1
+6,1,7039742,12053573,Auction Win,1
+6,1,7039745,12053582,Credit Package Purchase,1
+6,3,7039751,12045218,Credit Package Purchase,1
+6,3,7039754,12046988,Auction Win,1
+6,1,7039757,12053651,Credit Package Purchase,1
+6,5,7039760,12031880,Buy Now Purchase,1
+6,1,7039763,12053642,Credit Package Purchase,1
+6,2,7039769,12050081,Auction Win,1
+6,1,7039772,12053297,Auction Win,1
+6,2,7039778,12048905,Buy Now Purchase,1
+6,1,7039781,12053642,Auction Win,1
+6,2,7039784,12049544,Auction Win,1
+6,1,7039787,12053690,Credit Package Purchase,1
+6,1,7039793,12053582,Auction Win,1
+6,3,7039796,12045218,Credit Package Purchase,1
+6,1,7039802,12053693,Credit Package Purchase,1
+6,1,7039817,12053786,Credit Package Purchase,1
+6,3,7039826,12045218,Credit Package Purchase,1
+6,1,7039829,12053144,Auction Win,1
+6,2,7039832,12050402,Auction Win,1
+6,1,7039841,12053849,Credit Package Purchase,1
+6,1,7039844,12053846,Credit Package Purchase,1
+6,1,7039859,12053894,Credit Package Purchase,1
+6,1,7039871,12053873,Credit Package Purchase,1
+6,1,7039880,12053951,Credit Package Purchase,1
+6,1,7039892,12053873,Auction Win,1
+6,1,7039901,12053981,Credit Package Purchase,1
+6,4,7039904,12037523,Credit Package Purchase,1
+6,1,7039910,12054005,Credit Package Purchase,1
+6,2,7039916,12049199,Auction Win,1
+6,1,7039931,12053786,Auction Win,1
+6,1,7039943,12053567,Auction Win,1
+6,3,7039946,12046628,Auction Win,1
+6,1,7039952,12054092,Credit Package Purchase,1
+6,1,7039967,12054236,Credit Package Purchase,1
+6,1,7039976,12053780,Credit Package Purchase,1
+6,1,7039982,12054293,Credit Package Purchase,1
+6,1,7039994,12054245,Credit Package Purchase,1
+6,2,7040003,12051713,Auction Win,1
+6,1,7040006,12054362,Credit Package Purchase,1
+6,1,7040009,12052853,Credit Package Purchase,1
+6,1,7040015,12052211,Auction Win,1
+6,1,7040027,12053849,Auction Win,1
+6,1,7040039,12054440,Credit Package Purchase,1
+6,4,7040048,12037109,Buy Now Purchase,1
+6,1,7040054,12052211,Credit Package Purchase,1
+6,1,7040057,12052469,Credit Package Purchase,1
+6,1,7040060,12054515,Credit Package Purchase,1
+6,1,7040066,12054539,Credit Package Purchase,1
+6,1,7040069,12054527,Credit Package Purchase,1
+6,1,7040084,12054554,Credit Package Purchase,1
+6,1,7040108,12054587,Credit Package Purchase,1
+6,1,7040114,12054611,Credit Package Purchase,1
+6,2,7040117,12049199,Credit Package Purchase,1
+6,2,7040123,12051323,Auction Win,1
+6,1,7040132,12054440,Auction Win,1
+6,1,7040135,12054734,Credit Package Purchase,1
+6,1,7040141,12053201,Credit Package Purchase,1
+6,1,7040147,12054734,Auction Win,1
+6,1,7040159,12054767,Credit Package Purchase,1
+6,2,7040168,12050438,Credit Package Purchase,1
+6,1,7040174,12053846,Auction Win,1
+6,1,7040186,12054845,Credit Package Purchase,1
+6,2,7040189,12050438,Credit Package Purchase,1
+6,4,7040195,12041825,Buy Now Purchase,1
+6,1,7040201,12054818,Credit Package Purchase,1
+6,2,7040210,12050438,Credit Package Purchase,1
+6,1,7040216,12054962,Credit Package Purchase,1
+6,1,7040222,12054863,Credit Package Purchase,1
+6,1,7040225,12054983,Credit Package Purchase,1
+6,1,7040228,12054863,Auction Win,1
+6,2,7040231,12050438,Credit Package Purchase,1
+6,1,7040234,12052136,Buy Now Purchase,1
+6,2,7040240,12050438,Credit Package Purchase,1
+6,2,7040243,12050438,Credit Package Purchase,1
+6,3,7040246,12046628,Credit Package Purchase,1
+6,4,7040249,12041825,Buy Now Purchase,1
+6,1,7040252,12055139,Credit Package Purchase,1
+6,1,7040255,12055076,Credit Package Purchase,1
+6,2,7040264,12048122,Buy Now Purchase,1
+6,1,7040273,12055076,Auction Win,1
+6,1,7040279,12055163,Credit Package Purchase,1
+6,1,7040282,12055229,Credit Package Purchase,1
+6,1,7040297,12055376,Credit Package Purchase,1
+6,1,7040303,12053567,Buy Now Purchase,1
+6,1,7040312,12055427,Credit Package Purchase,1
+6,2,7040318,12048122,Auction Win,1
+6,1,7040321,12055409,Credit Package Purchase,1
+6,1,7040324,12055439,Credit Package Purchase,1
+6,1,7040339,12054554,Auction Win,1
+6,1,7040348,12055496,Credit Package Purchase,1
+6,1,7040351,12055229,Credit Package Purchase,1
+6,1,7040354,12055409,Auction Win,1
+6,3,7040372,12046922,Buy Now Purchase,1
+6,6,7040381,12029063,Buy Now Purchase,1
+6,1,7040384,12055229,Auction Win,1
+6,1,7040390,12055589,Credit Package Purchase,1
+6,1,7040408,12055610,Credit Package Purchase,1
+6,2,7040426,12047651,Buy Now Purchase,1
+6,1,7040432,12055664,Credit Package Purchase,1
+6,1,7040441,12055673,Credit Package Purchase,1
+6,3,7040450,12042677,Buy Now Purchase,1
+6,6,7040459,12027188,Buy Now Purchase,1
+6,1,7040462,12053693,Auction Win,1
+6,1,7040477,12055607,Credit Package Purchase,1
+6,1,7040480,12055739,Credit Package Purchase,1
+6,1,7040483,12052574,Auction Win,1
+6,1,7040489,12055757,Credit Package Purchase,1
+6,2,7040495,12049130,Credit Package Purchase,1
+6,1,7040498,12054218,Credit Package Purchase,1
+6,1,7040504,12055772,Credit Package Purchase,1
+6,1,7040507,12053693,Auction Win,1
+6,1,7040519,12055739,Auction Win,1
+6,1,7040522,12052508,Auction Win,1
+6,1,7040525,12055757,Auction Win,1
+6,1,7040528,12055805,Credit Package Purchase,1
+6,1,7040534,12055757,Auction Win,1
+6,2,7040537,12051713,Auction Win,1
+6,1,7040552,12054296,Credit Package Purchase,1
+6,1,7040555,12055877,Credit Package Purchase,1
+6,1,7040561,12055889,Credit Package Purchase,1
+6,1,7040564,12055880,Credit Package Purchase,1
+6,1,7040567,12055895,Credit Package Purchase,1
+6,1,7040570,12055886,Credit Package Purchase,1
+6,1,7040573,12052271,Auction Win,1
+6,1,7040576,12053849,Credit Package Purchase,1
+6,1,7040579,12055664,Auction Win,1
+6,3,7040600,12042599,Credit Package Purchase,1
+6,1,7040603,12053900,Credit Package Purchase,1
+6,6,7040615,12029585,Credit Package Purchase,1
+6,1,7040618,12056033,Credit Package Purchase,1
+6,4,7040621,12039875,Credit Package Purchase,1
+6,1,7040624,12056006,Credit Package Purchase,1
+6,1,7040636,12056063,Credit Package Purchase,1
+6,1,7040642,12055808,Credit Package Purchase,1
+6,1,7040654,12056006,Auction Win,1
+6,1,7040681,12056030,Credit Package Purchase,1
+6,1,7040684,12055886,Auction Win,1
+6,1,7040687,12054767,Credit Package Purchase,1
+6,1,7040699,12055496,Auction Win,1
+6,1,7040705,12056201,Credit Package Purchase,1
+6,1,7040717,12053900,Auction Win,1
+6,4,7040723,12038561,Buy Now Purchase,1
+6,3,7040735,12045155,Credit Package Purchase,1
+6,1,7040738,12055859,Credit Package Purchase,1
+6,1,7040750,12055808,Auction Win,1
+6,1,7040771,12055886,Buy Now Purchase,1
+6,3,7040780,12042599,Auction Win,1
+6,1,7040783,12056315,Credit Package Purchase,1
+6,1,7040786,12055805,Auction Win,1
+6,3,7040789,12045155,Auction Win,1
+6,1,7040795,12056315,Auction Win,1
+6,4,7040804,12037523,Credit Package Purchase,1
+6,1,7040840,12055805,Auction Win,1
+6,1,7040849,12056393,Credit Package Purchase,1
+6,1,7040864,12054515,Credit Package Purchase,1
+6,2,7040867,12051875,Buy Now Purchase,1
+6,2,7040870,12050927,Credit Package Purchase,1
+6,1,7040873,12056393,Auction Win,1
+6,1,7040876,12056510,Credit Package Purchase,1
+6,1,7040891,12056525,Credit Package Purchase,1
+6,5,7040894,12034727,Credit Package Purchase,1
+6,2,7040900,12047630,Auction Win,1
+6,1,7040903,12056201,Auction Win,1
+6,1,7040909,12056576,Credit Package Purchase,1
+6,1,7040918,12056552,Credit Package Purchase,1
+6,1,7040933,12056525,Auction Win,1
+6,1,7040939,12055496,Buy Now Purchase,1
+6,1,7040942,12056624,Credit Package Purchase,1
+6,1,7040951,12056585,Credit Package Purchase,1
+6,3,7040960,12042599,Auction Win,1
+6,2,7040966,12050927,Credit Package Purchase,1
+6,1,7040975,12056693,Credit Package Purchase,1
+6,1,7040978,12056552,Auction Win,1
+6,1,7040984,12056558,Credit Package Purchase,1
+6,3,7040999,12042599,Auction Win,1
+6,4,7041005,12039875,Credit Package Purchase,1
+6,1,7041014,12056756,Credit Package Purchase,1
+6,1,7041017,12056681,Credit Package Purchase,1
+6,1,7041026,12056558,Auction Win,1
+6,1,7041029,12052211,Buy Now Purchase,1
+6,1,7041035,12056762,Credit Package Purchase,1
+6,4,7041041,12037892,Buy Now Purchase,1
+6,1,7041044,12052211,Buy Now Purchase,1
+6,1,7041047,12056819,Credit Package Purchase,1
+6,1,7041056,12053693,Buy Now Purchase,1
+6,1,7041074,12056873,Credit Package Purchase,1
+6,2,7041083,12050927,Credit Package Purchase,1
+6,1,7041098,12056867,Credit Package Purchase,1
+6,1,7041107,12056585,Auction Win,1
+6,4,7041113,12037523,Credit Package Purchase,1
+6,1,7041119,12056585,Auction Win,1
+6,5,7041122,12032957,Auction Win,1
+6,3,7041125,12043649,Auction Win,1
+6,1,7041143,12053849,Credit Package Purchase,1
+6,1,7041152,12056969,Credit Package Purchase,1
+6,3,7041167,12047183,Credit Package Purchase,1
+6,1,7041170,12052211,Buy Now Purchase,1
+6,1,7041179,12056960,Credit Package Purchase,1
+6,1,7041182,12053849,Buy Now Purchase,1
+6,1,7041191,12057047,Credit Package Purchase,1
+6,1,7041200,12056624,Auction Win,1
+6,3,7041206,12045218,Buy Now Purchase,1
+6,1,7041209,12053849,Buy Now Purchase,1
+6,2,7041212,12050927,Credit Package Purchase,1
+6,1,7041218,12057074,Credit Package Purchase,1
+6,1,7041221,12057020,Credit Package Purchase,1
+6,1,7041254,12057020,Auction Win,1
+6,1,7041266,12057074,Auction Win,1
+6,2,7041278,12051875,Auction Win,1
+6,1,7041287,12056372,Credit Package Purchase,1
+6,2,7041290,12050927,Credit Package Purchase,1
+6,2,7041293,12050927,Credit Package Purchase,1
+6,1,7041305,12057224,Credit Package Purchase,1
+6,1,7041314,12057227,Credit Package Purchase,1
+6,1,7041323,12056552,Auction Win,1
+6,1,7041335,12057257,Credit Package Purchase,1
+6,5,7041344,12033161,Credit Package Purchase,1
+6,2,7041347,12051713,Auction Win,1
+6,1,7041350,12057275,Credit Package Purchase,1
+6,1,7041353,12057275,Auction Win,1
+6,3,7041368,12042599,Credit Package Purchase,1
+6,4,7041374,12037523,Credit Package Purchase,1
+6,1,7041377,12057275,Auction Win,1
+6,1,7041386,12057329,Credit Package Purchase,1
+6,1,7041392,12057386,Credit Package Purchase,1
+6,4,7041410,12037505,Auction Win,1
+6,1,7041416,12057443,Credit Package Purchase,1
+6,1,7041422,12057410,Credit Package Purchase,1
+6,1,7041428,12057452,Credit Package Purchase,1
+6,3,7041431,12047306,Credit Package Purchase,1
+6,1,7041434,12053567,Auction Win,1
+6,1,7041437,12057485,Credit Package Purchase,1
+6,1,7041443,12057503,Credit Package Purchase,1
+6,1,7041452,12057386,Auction Win,1
+6,1,7041455,12052853,Credit Package Purchase,1
+6,1,7041458,12057494,Credit Package Purchase,1
+6,2,7041464,12049712,Credit Package Purchase,1
+6,1,7041470,12057443,Auction Win,1
+6,1,7041476,12057569,Credit Package Purchase,1
+6,1,7041485,12057560,Credit Package Purchase,1
+6,1,7041488,12057485,Auction Win,1
+6,2,7041497,12051164,Credit Package Purchase,1
+6,1,7041503,12055886,Auction Win,1
+6,1,7041509,12057608,Credit Package Purchase,1
+6,1,7041512,12057617,Credit Package Purchase,1
+6,6,7041518,12030053,Auction Win,1
+6,1,7041521,12057617,Auction Win,1
+6,1,7041527,12055886,Buy Now Purchase,1
+6,1,7041539,12057644,Credit Package Purchase,1
+6,1,7041545,12055496,Auction Win,1
+6,1,7041551,12056975,Credit Package Purchase,1
+6,1,7041554,12057569,Auction Win,1
+6,1,7041557,12056681,Credit Package Purchase,1
+6,1,7041563,12057599,Credit Package Purchase,1
+6,4,7041566,12037523,Credit Package Purchase,1
+6,2,7041578,12051164,Credit Package Purchase,1
+6,1,7041581,12057593,Credit Package Purchase,1
+6,1,7041587,12057728,Credit Package Purchase,1
+6,1,7041596,12057410,Credit Package Purchase,1
+6,1,7041602,12057752,Credit Package Purchase,1
+6,1,7041605,12057698,Credit Package Purchase,1
+6,1,7041608,12057752,Auction Win,1
+6,4,7041611,12037523,Credit Package Purchase,1
+6,1,7041617,12057365,Credit Package Purchase,1
+6,1,7041626,12057737,Credit Package Purchase,1
+6,1,7041629,12053849,Auction Win,1
+6,2,7041635,12052130,Credit Package Purchase,1
+6,1,7041641,12057365,Auction Win,1
+6,2,7041653,12051164,Credit Package Purchase,1
+6,2,7041668,12050969,Auction Win,1
+6,1,7041671,12057812,Credit Package Purchase,1
+6,5,7041674,12034727,Buy Now Purchase,1
+6,1,7041677,12052406,Auction Win,1
+7,2,7041680,12057737,Auction Win,1
+7,2,7041686,12057815,Credit Package Purchase,1
+7,6,7041689,12034727,Buy Now Purchase,1
+7,2,7041701,12057410,Auction Win,1
+7,3,7041704,12049712,Auction Win,1
+7,3,7041707,12051164,Credit Package Purchase,1
+7,2,7041719,12057743,Credit Package Purchase,1
+7,2,7041722,12057410,Auction Win,1
+7,6,7041725,12032639,Auction Win,1
+7,1,7041731,12057905,Credit Package Purchase,1
+7,1,7041734,12057905,Auction Win,1
+7,1,7041737,12057959,Credit Package Purchase,1
+7,1,7041743,12057965,Credit Package Purchase,1
+7,1,7041752,12057971,Credit Package Purchase,1
+7,1,7041758,12057971,Auction Win,1
+7,1,7041776,12057983,Credit Package Purchase,1
+7,1,7041779,12058031,Credit Package Purchase,1
+7,1,7041782,12058040,Credit Package Purchase,1
+7,1,7041785,12058031,Auction Win,1
+7,1,7041791,12058028,Credit Package Purchase,1
+7,1,7041794,12058040,Auction Win,1
+7,1,7041815,12058058,Credit Package Purchase,1
+7,1,7041821,12058058,Auction Win,1
+7,1,7041824,12057983,Auction Win,1
+7,2,7041860,12057608,Auction Win,1
+7,1,7041866,12058103,Credit Package Purchase,1
+7,1,7041869,12058103,Auction Win,1
+7,3,7041875,12050927,Buy Now Purchase,1
+7,3,7041878,12050927,Credit Package Purchase,1
+7,1,7041881,12058154,Credit Package Purchase,1
+7,1,7041884,12058154,Auction Win,1
+7,1,7041893,12058160,Credit Package Purchase,1
+7,1,7041902,12058181,Credit Package Purchase,1
+7,2,7041908,12056510,Auction Win,1
+7,1,7041911,12058184,Credit Package Purchase,1
+7,1,7041914,12058181,Auction Win,1
+7,2,7041917,12057734,Credit Package Purchase,1
+7,1,7041944,12058169,Credit Package Purchase,1
+7,1,7041947,12058307,Credit Package Purchase,1
+7,1,7041950,12058304,Credit Package Purchase,1
+7,1,7041956,12058310,Credit Package Purchase,1
+7,1,7041959,12058115,Credit Package Purchase,1
+7,1,7041965,12058310,Auction Win,1
+7,1,7041977,12058364,Credit Package Purchase,1
+7,1,7041980,12058412,Credit Package Purchase,1
+7,7,7041983,12027029,Buy Now Purchase,1
+7,1,7041986,12058442,Credit Package Purchase,1
+7,1,7041989,12058439,Credit Package Purchase,1
+7,1,7041992,12058439,Auction Win,1
+7,1,7042001,12058484,Credit Package Purchase,1
+7,3,7042004,12050468,Buy Now Purchase,1
+7,3,7042007,12050099,Auction Win,1
+7,1,7042010,12058589,Credit Package Purchase,1
+7,1,7042022,12058601,Credit Package Purchase,1
+7,1,7042025,12058616,Credit Package Purchase,1
+7,1,7042028,12058115,Auction Win,1
+7,1,7042037,12058601,Auction Win,1
+7,1,7042040,12058616,Auction Win,1
+7,1,7042055,12058652,Credit Package Purchase,1
+7,1,7042058,12058589,Credit Package Purchase,1
+7,3,7042064,12051164,Credit Package Purchase,1
+7,1,7042070,12058718,Credit Package Purchase,1
+7,1,7042079,12058694,Credit Package Purchase,1
+7,1,7042082,12058718,Auction Win,1
+7,1,7042085,12058544,Credit Package Purchase,1
+7,3,7042094,12050468,Credit Package Purchase,1
+7,3,7042097,12050468,Auction Win,1
+7,3,7042100,12050468,Auction Win,1
+7,3,7042103,12051164,Credit Package Purchase,1
+7,1,7042109,12058787,Credit Package Purchase,1
+7,1,7042112,12057983,Buy Now Purchase,1
+7,1,7042115,12057983,Buy Now Purchase,1
+7,2,7042124,12057743,Auction Win,1
+7,1,7042127,12058694,Auction Win,1
+7,1,7042136,12058922,Credit Package Purchase,1
+7,1,7042145,12058865,Credit Package Purchase,1
+7,3,7042148,12050756,Auction Win,1
+7,1,7042154,12057983,Auction Win,1
+7,1,7042166,12058922,Auction Win,1
+7,1,7042172,12059033,Credit Package Purchase,1
+7,1,7042175,12058865,Auction Win,1
+7,4,7042178,12042599,Credit Package Purchase,1
+7,3,7042181,12049544,Buy Now Purchase,1
+7,1,7042199,12059198,Credit Package Purchase,1
+7,1,7042211,12059222,Credit Package Purchase,1
+7,1,7042217,12059198,Auction Win,1
+7,1,7042220,12059255,Credit Package Purchase,1
+7,1,7042223,12059273,Credit Package Purchase,1
+7,1,7042229,12059273,Auction Win,1
+7,1,7042235,12059300,Credit Package Purchase,1
+7,5,7042244,12038675,Auction Win,1
+7,1,7042250,12059309,Credit Package Purchase,1
+7,1,7042277,12059444,Credit Package Purchase,1
+7,2,7042292,12054428,Credit Package Purchase,1
+7,1,7042298,12059300,Auction Win,1
+7,1,7042304,12059444,Auction Win,1
+7,1,7042307,12059543,Credit Package Purchase,1
+7,7,7042310,12030830,Buy Now Purchase,1
+7,1,7042325,12059573,Credit Package Purchase,1
+7,2,7042328,12053201,Buy Now Purchase,1
+7,1,7042331,12059543,Auction Win,1
+7,1,7042334,12059564,Credit Package Purchase,1
+7,1,7042349,12058766,Credit Package Purchase,1
+7,1,7042376,12059609,Credit Package Purchase,1
+7,1,7042379,12059636,Credit Package Purchase,1
+7,2,7042388,12053849,Buy Now Purchase,1
+7,1,7042391,12059609,Auction Win,1
+7,1,7042424,12058589,Buy Now Purchase,1
+7,1,7042430,12058307,Auction Win,1
+7,1,7042436,12059723,Credit Package Purchase,1
+7,1,7042439,12058589,Buy Now Purchase,1
+7,1,7042457,12059789,Credit Package Purchase,1
+7,1,7042460,12059771,Credit Package Purchase,1
+7,1,7042481,12059813,Credit Package Purchase,1
+7,4,7042499,12042599,Auction Win,1
+7,1,7042502,12059273,Buy Now Purchase,1
+7,2,7042529,12052607,Buy Now Purchase,1
+7,2,7042538,12054611,Auction Win,1
+7,1,7042544,12059963,Credit Package Purchase,1
+7,1,7042547,12059975,Credit Package Purchase,1
+7,2,7042553,12054611,Auction Win,1
+7,2,7042559,12054428,Auction Win,1
+7,1,7042562,12059723,Auction Win,1
+7,1,7042574,12059978,Credit Package Purchase,1
+7,2,7042577,12056372,Buy Now Purchase,1
+7,1,7042586,12059921,Credit Package Purchase,1
+7,1,7042595,12060062,Credit Package Purchase,1
+7,1,7042598,12059978,Auction Win,1
+7,1,7042601,12060035,Credit Package Purchase,1
+7,2,7042604,12056372,Auction Win,1
+7,1,7042610,12060116,Credit Package Purchase,1
+7,5,7042616,12037883,Buy Now Purchase,1
+7,6,7042619,12033161,Buy Now Purchase,1
+7,6,7042622,12033161,Buy Now Purchase,1
+7,3,7042634,12049544,Auction Win,1
+7,1,7042640,12060182,Credit Package Purchase,1
+7,2,7042646,12055889,Auction Win,1
+7,1,7042655,12060182,Auction Win,1
+7,1,7042661,12060146,Credit Package Purchase,1
+7,2,7042667,12055889,Auction Win,1
+7,1,7042670,12060245,Credit Package Purchase,1
+7,4,7042706,12044873,Credit Package Purchase,1
+7,1,7042709,12060314,Credit Package Purchase,1
+7,1,7042712,12060317,Credit Package Purchase,1
+7,1,7042718,12057920,Credit Package Purchase,1
+7,1,7042727,12060392,Credit Package Purchase,1
+7,1,7042730,12060422,Credit Package Purchase,1
+7,1,7042736,12058922,Buy Now Purchase,1
+7,1,7042745,12060479,Credit Package Purchase,1
+7,1,7042757,12059222,Auction Win,1
+7,1,7042763,12060536,Credit Package Purchase,1
+7,1,7042766,12060437,Credit Package Purchase,1
+7,1,7042772,12060599,Credit Package Purchase,1
+7,1,7042775,12060392,Auction Win,1
+7,1,7042787,12060626,Credit Package Purchase,1
+7,1,7042796,12060620,Credit Package Purchase,1
+7,1,7042799,12060572,Credit Package Purchase,1
+7,2,7042814,12057608,Auction Win,1
+7,1,7042826,12060572,Auction Win,1
+7,1,7042835,12060272,Credit Package Purchase,1
+7,1,7042838,12059813,Credit Package Purchase,1
+7,1,7042856,12060599,Auction Win,1
+7,1,7042871,12060692,Credit Package Purchase,1
+7,2,7042874,12054428,Auction Win,1
+7,1,7042895,12059813,Credit Package Purchase,1
+7,2,7042904,12053780,Credit Package Purchase,1
+7,1,7042907,12060776,Credit Package Purchase,1
+7,1,7042910,12060776,Buy Now Purchase,1
+7,1,7042913,12060392,Auction Win,1
+7,1,7042919,12060536,Credit Package Purchase,1
+7,6,7042922,12032957,Auction Win,1
+7,1,7042931,12060842,Credit Package Purchase,1
+7,1,7042934,12059813,Credit Package Purchase,1
+7,2,7042949,12053780,Credit Package Purchase,1
+7,1,7042955,12060842,Auction Win,1
+7,1,7042973,12059807,Credit Package Purchase,1
+7,1,7042982,12060620,Auction Win,1
+7,4,7042988,12044873,Auction Win,1
+7,1,7043006,12061055,Credit Package Purchase,1
+7,1,7043015,12060833,Credit Package Purchase,1
+7,1,7043024,12060833,Auction Win,1
+7,1,7043027,12059609,Credit Package Purchase,1
+7,1,7043030,12061052,Credit Package Purchase,1
+7,1,7043057,12060536,Auction Win,1
+7,1,7043063,12060848,Credit Package Purchase,1
+7,1,7043066,12061079,Credit Package Purchase,1
+7,2,7043069,12053780,Buy Now Purchase,1
+7,1,7043072,12061151,Credit Package Purchase,1
+7,1,7043075,12060062,Auction Win,1
+7,1,7043078,12061175,Credit Package Purchase,1
+7,1,7043084,12061190,Credit Package Purchase,1
+7,1,7043096,12058922,Buy Now Purchase,1
+7,1,7043099,12061211,Credit Package Purchase,1
+7,1,7043105,12061199,Credit Package Purchase,1
+7,1,7043108,12061271,Credit Package Purchase,1
+7,1,7043111,12061190,Auction Win,1
+7,2,7043114,12056201,Buy Now Purchase,1
+7,1,7043117,12058922,Auction Win,1
+7,1,7043120,12061289,Credit Package Purchase,1
+7,2,7043123,12056201,Auction Win,1
+7,1,7043126,12061325,Credit Package Purchase,1
+7,1,7043132,12061337,Credit Package Purchase,1
+7,1,7043144,12060968,Credit Package Purchase,1
+7,1,7043147,12061325,Auction Win,1
+7,1,7043150,12061361,Credit Package Purchase,1
+7,1,7043165,12061289,Auction Win,1
+7,1,7043168,12061172,Credit Package Purchase,1
+7,1,7043171,12061361,Auction Win,1
+7,1,7043174,12061271,Auction Win,1
+7,1,7043192,12061445,Credit Package Purchase,1
+7,1,7043195,12061538,Credit Package Purchase,1
+7,1,7043198,12059636,Auction Win,1
+7,1,7043204,12058766,Auction Win,1
+7,2,7043207,12056372,Buy Now Purchase,1
+7,4,7043216,12043040,Buy Now Purchase,1
+7,2,7043219,12054245,Auction Win,1
+7,1,7043222,12061589,Credit Package Purchase,1
+7,1,7043225,12061592,Credit Package Purchase,1
+7,2,7043228,12057812,Auction Win,1
+7,1,7043231,12058364,Credit Package Purchase,1
+7,1,7043234,12061535,Credit Package Purchase,1
+7,1,7043237,12061592,Auction Win,1
+7,1,7043243,12061619,Credit Package Purchase,1
+7,1,7043246,12061616,Credit Package Purchase,1
+7,1,7043255,12061619,Auction Win,1
+7,3,7043258,12049712,Auction Win,2
+7,1,7043264,12061589,Auction Win,1
+7,1,7043273,12061652,Credit Package Purchase,1
+7,1,7043282,12061634,Credit Package Purchase,1
+7,3,7043288,12047651,Auction Win,1
+7,1,7043294,12061523,Credit Package Purchase,1
+7,6,7043300,12036476,Auction Win,1
+7,1,7043306,12061781,Credit Package Purchase,1
+7,6,7043315,12034769,Auction Win,1
+7,1,7043324,12061829,Credit Package Purchase,1
+7,1,7043327,12061838,Credit Package Purchase,1
+7,1,7043348,12061856,Credit Package Purchase,1
+7,2,7043351,12053894,Auction Win,1
+7,5,7043357,12038675,Credit Package Purchase,1
+7,1,7043360,12061856,Auction Win,1
+7,2,7043369,12053894,Auction Win,1
+7,1,7043372,12061619,Auction Win,1
+7,1,7043375,12061895,Credit Package Purchase,1
+7,1,7043378,12061889,Credit Package Purchase,1
+7,1,7043387,12061907,Credit Package Purchase,1
+7,2,7043396,12056867,Auction Win,1
+7,2,7043399,12056867,Auction Win,1
+7,1,7043405,12061940,Credit Package Purchase,1
+7,1,7043408,12061940,Auction Win,1
+7,1,7043411,12061934,Credit Package Purchase,1
+7,1,7043417,12061895,Auction Win,1
+7,6,7043426,12032282,Buy Now Purchase,1
+7,1,7043453,12058310,Auction Win,1
+7,2,7043462,12053693,Buy Now Purchase,1
+7,1,7043468,12061970,Credit Package Purchase,1
+7,2,7043477,12053693,Buy Now Purchase,1
+7,1,7043486,12061907,Auction Win,1
+7,1,7043495,12058766,Buy Now Purchase,1
+7,1,7043507,12060536,Buy Now Purchase,1
+7,1,7043519,12061970,Auction Win,1
+7,5,7043537,12038675,Credit Package Purchase,1
+7,4,7043540,12046628,Buy Now Purchase,1
+7,2,7043552,12054767,Auction Win,1
+7,1,7043558,12061907,Credit Package Purchase,1
+7,1,7043561,12062099,Credit Package Purchase,1
+7,1,7043576,12062141,Credit Package Purchase,1
+7,1,7043579,12060968,Auction Win,1
+7,1,7043588,12062156,Credit Package Purchase,1
+7,1,7043600,12062177,Credit Package Purchase,1
+7,1,7043609,12057983,Auction Win,1
+7,5,7043615,12038675,Credit Package Purchase,1
+7,1,7043618,12062216,Credit Package Purchase,1
+7,1,7043636,12062240,Credit Package Purchase,1
+7,3,7043645,12047651,Buy Now Purchase,1
+7,4,7043654,12043451,Buy Now Purchase,1
+7,1,7043660,12062264,Credit Package Purchase,1
+7,5,7043663,12038675,Credit Package Purchase,1
+7,1,7043666,12062276,Credit Package Purchase,1
+7,1,7043678,12062324,Credit Package Purchase,1
+7,1,7043684,12062336,Credit Package Purchase,1
+7,1,7043702,12062357,Credit Package Purchase,1
+7,3,7043705,12048293,Auction Win,1
+7,1,7043714,12062276,Auction Win,1
+7,5,7043717,12038675,Credit Package Purchase,1
+7,5,7043726,12038675,Credit Package Purchase,1
+7,1,7043729,12062396,Credit Package Purchase,1
+7,6,7043735,12033161,Credit Package Purchase,1
+7,1,7043738,12062396,Auction Win,1
+7,4,7043747,12043649,Buy Now Purchase,1
+7,4,7043750,12043649,Buy Now Purchase,1
+7,1,7043753,12062432,Credit Package Purchase,1
+7,1,7043759,12062462,Credit Package Purchase,1
+7,1,7043765,12062489,Credit Package Purchase,1
+7,1,7043768,12062492,Credit Package Purchase,1
+7,3,7043771,12049208,Buy Now Purchase,1
+7,6,7043774,12033161,Credit Package Purchase,1
+7,1,7043777,12062489,Auction Win,1
+7,2,7043783,12057608,Buy Now Purchase,1
+7,1,7043801,12061151,Auction Win,1
+7,1,7043804,12062567,Credit Package Purchase,1
+7,1,7043807,12058364,Credit Package Purchase,1
+7,1,7043822,12062567,Auction Win,1
+7,1,7043825,12062609,Credit Package Purchase,1
+7,1,7043837,12062621,Credit Package Purchase,1
+7,4,7043840,12047306,Credit Package Purchase,1
+7,6,7043843,12033161,Credit Package Purchase,1
+7,1,7043852,12062489,Buy Now Purchase,1
+7,1,7043855,12062579,Credit Package Purchase,1
+7,1,7043858,12062609,Auction Win,1
+7,6,7043861,12033161,Auction Win,1
+7,2,7043864,12053567,Buy Now Purchase,1
+7,1,7043867,12058364,Credit Package Purchase,1
+7,1,7043870,12062489,Auction Win,1
+7,1,7043873,12062615,Credit Package Purchase,1
+7,1,7043888,12060968,Auction Win,1
+7,3,7043891,12049178,Buy Now Purchase,1
+7,1,7043897,12062489,Auction Win,1
+7,1,7043900,12062744,Credit Package Purchase,1
+7,1,7043906,12062396,Buy Now Purchase,1
+7,1,7043933,12062567,Auction Win,1
+7,1,7043942,12060692,Auction Win,1
+7,1,7043945,12062819,Credit Package Purchase,1
+7,1,7043948,12062396,Auction Win,1
+7,2,7043951,12057734,Auction Win,1
+7,2,7043966,12055496,Auction Win,1
+7,4,7043990,12046922,Buy Now Purchase,1
+7,1,7043999,12062930,Credit Package Purchase,1
+7,1,7044002,12061619,Buy Now Purchase,1
+7,1,7044005,12062930,Auction Win,1
+7,1,7044011,12062969,Credit Package Purchase,1
+7,1,7044014,12062963,Credit Package Purchase,1
+7,2,7044026,12054362,Auction Win,1
+7,1,7044032,12062990,Credit Package Purchase,1
+7,1,7044038,12063008,Credit Package Purchase,1
+7,3,7044044,12049712,Auction Win,1
+7,2,7044047,12054362,Auction Win,1
+7,1,7044056,12060062,Buy Now Purchase,1
+7,1,7044059,12063041,Credit Package Purchase,1
+7,1,7044062,12062396,Auction Win,1
+7,1,7044068,12063029,Credit Package Purchase,1
+7,1,7044074,12063053,Credit Package Purchase,1
+7,1,7044077,12063068,Credit Package Purchase,1
+7,1,7044089,12063059,Credit Package Purchase,1
+7,4,7044098,12044507,Auction Win,1
+7,1,7044101,12063182,Credit Package Purchase,1
+7,1,7044104,12063179,Credit Package Purchase,1
+7,1,7044110,12062609,Auction Win,1
+7,1,7044113,12063179,Auction Win,1
+7,1,7044119,12058364,Credit Package Purchase,1
+7,1,7044128,12063302,Credit Package Purchase,1
+7,1,7044140,12063350,Credit Package Purchase,1
+7,1,7044143,12063245,Credit Package Purchase,1
+7,1,7044149,12063368,Credit Package Purchase,1
+8,2,7044239,12063383,Credit Package Purchase,1
+8,2,7044251,12063365,Credit Package Purchase,1
+8,3,7044254,12052178,Credit Package Purchase,1
+8,2,7044257,12062276,Credit Package Purchase,1
+8,2,7044260,12063383,Auction Win,1
+8,2,7044263,12063368,Auction Win,1
+8,3,7044275,12052178,Credit Package Purchase,1
+8,4,7044284,12047651,Buy Now Purchase,1
+8,5,7044287,12047390,Buy Now Purchase,1
+8,5,7044350,12042599,Buy Now Purchase,2
+8,5,7044356,12042599,Buy Now Purchase,1
+8,2,7044401,12058169,Auction Win,1
+8,2,7044428,12058589,Auction Win,1
+8,2,7044443,12060968,Credit Package Purchase,1
+8,2,7044452,12059573,Auction Win,1
+8,2,7044455,12059573,Auction Win,1
+8,3,7044467,12052832,Auction Win,1
+8,2,7044479,12057983,Credit Package Purchase,1
+8,2,7044596,12058766,Auction Win,1
+8,4,7044635,12051164,Buy Now Purchase,1
+8,2,7044683,12059543,Credit Package Purchase,1
+8,2,7044692,12058223,Credit Package Purchase,1
+8,2,7044716,12063059,Auction Win,1
+8,3,7044722,12053849,Credit Package Purchase,1
+8,2,7044731,12059723,Buy Now Purchase,1
+8,7,7044737,12031949,Buy Now Purchase,1
+8,2,7044776,12060437,Credit Package Purchase,1
+8,2,7044779,12058169,Buy Now Purchase,1
+8,2,7044818,12061055,Auction Win,1
+8,3,7044833,12053567,Buy Now Purchase,1
+8,8,7044842,12027188,Credit Package Purchase,1
+8,2,7044863,12059621,Credit Package Purchase,1
+8,2,7044869,12063182,Auction Win,1
+8,8,7044878,12026753,Buy Now Purchase,1
+8,2,7044914,12058364,Buy Now Purchase,2
+8,6,7044935,12040826,Auction Win,1
+8,2,7044938,12058223,Buy Now Purchase,1
+8,3,7044944,12053849,Buy Now Purchase,1
+8,3,7044962,12056510,Buy Now Purchase,1
+8,6,7044971,12041807,Buy Now Purchase,1
+8,3,7044977,12053849,Buy Now Purchase,1
+8,2,7044983,12059573,Buy Now Purchase,1
+8,3,7045034,12053567,Buy Now Purchase,1
+8,2,7045127,12059813,Buy Now Purchase,1
+8,2,7045148,12060692,Buy Now Purchase,1
+8,2,7045154,12059813,Buy Now Purchase,1
+8,3,7045157,12057743,Buy Now Purchase,1
+8,2,7045181,12059813,Buy Now Purchase,1
+8,3,7045223,12053849,Buy Now Purchase,1
+8,3,7045238,12053201,Buy Now Purchase,1
+8,3,7045253,12053567,Buy Now Purchase,1
+8,2,7045283,12062396,Credit Package Purchase,1
+8,7,7045295,12033161,Credit Package Purchase,1
+8,2,7045304,12062396,Buy Now Purchase,1
+8,2,7045325,12063059,Buy Now Purchase,1
+8,7,7045337,12033161,Buy Now Purchase,1
+8,2,7045367,12063059,Buy Now Purchase,1
+8,2,7045409,12063059,Credit Package Purchase,1
+8,2,7045451,12062177,Auction Win,1
+8,2,7045463,12061838,Buy Now Purchase,1
+8,2,7045466,12059621,Auction Win,1
+8,2,7045469,12059621,Auction Win,1
+8,3,7045472,12057608,Buy Now Purchase,1
+8,2,7045475,12061838,Buy Now Purchase,1
+8,2,7045478,12061838,Auction Win,1
+8,3,7045481,12053567,Buy Now Purchase,1
+8,3,7045490,12055496,Buy Now Purchase,1
+8,5,7045544,12043313,Buy Now Purchase,1
+8,3,7045562,12053567,Auction Win,1
+8,2,7045592,12060479,Auction Win,1
+8,2,7045616,12061838,Auction Win,1
+8,5,7045649,12043649,Auction Win,1
+8,2,7045661,12063293,Credit Package Purchase,1
+8,2,7045664,12062396,Buy Now Purchase,1
+8,2,7045685,12063293,Auction Win,1
+8,5,7045730,12043415,Auction Win,1
+8,3,7045748,12052565,Credit Package Purchase,1
+8,3,7045754,12057155,Credit Package Purchase,1
+8,2,7045763,12063293,Buy Now Purchase,1
+8,3,7045775,12056975,Auction Win,1
+8,3,7045778,12057155,Auction Win,1
+8,3,7045793,12052565,Auction Win,1
+8,7,7045796,12032282,Buy Now Purchase,1
+8,2,7045820,12063224,Credit Package Purchase,1
+8,2,7045862,12060968,Auction Win,1
+8,3,7045886,12056960,Auction Win,1
+8,6,7045916,12041948,Buy Now Purchase,1
+8,2,7045946,12063293,Credit Package Purchase,1
+8,2,7045973,12060968,Buy Now Purchase,1
+8,5,7045979,12045593,Credit Package Purchase,1
+8,3,7046045,12056681,Auction Win,1
+8,2,7046105,12061907,Credit Package Purchase,1
+8,3,7046111,12056681,Credit Package Purchase,1
+8,6,7046165,12042278,Credit Package Purchase,1
+8,6,7046177,12042278,Credit Package Purchase,1
+8,6,7046183,12042278,Credit Package Purchase,1
+8,3,7046186,12056681,Credit Package Purchase,1
+8,3,7046213,12052607,Auction Win,1
+8,3,7046219,12052607,Auction Win,1
+8,3,7046228,12052607,Auction Win,1
+8,8,7046237,12027188,Buy Now Purchase,1
+8,3,7046246,12056681,Credit Package Purchase,1
+8,6,7046282,12042278,Auction Win,1
+8,4,7046285,12051722,Buy Now Purchase,1
+8,8,7046291,12027188,Buy Now Purchase,1
+8,4,7046309,12051722,Buy Now Purchase,1
+8,3,7046315,12056681,Credit Package Purchase,1
+8,3,7046330,12056681,Credit Package Purchase,1
+8,3,7046333,12056975,Buy Now Purchase,1
+8,2,7046393,12062948,Credit Package Purchase,1
+8,2,7046396,12059573,Credit Package Purchase,1
+8,8,7046405,12027188,Buy Now Purchase,1
+8,3,7046417,12053849,Buy Now Purchase,1
+8,3,7046420,12053849,Buy Now Purchase,1
+8,2,7046423,12063293,Credit Package Purchase,1
+8,2,7046429,12063224,Auction Win,1
+8,7,7046438,12033161,Credit Package Purchase,1
+8,2,7046450,12063293,Buy Now Purchase,1
+8,2,7046459,12062948,Credit Package Purchase,1
+8,2,7046477,12062948,Auction Win,1
+8,7,7046483,12033161,Credit Package Purchase,1
+8,8,7046492,12027188,Buy Now Purchase,1
+8,3,7046516,12053849,Credit Package Purchase,1
+8,7,7046534,12033161,Credit Package Purchase,1
+9,4,7046573,12054236,Buy Now Purchase,1
+9,3,7046642,12058031,Buy Now Purchase,1
+9,3,7046645,12063293,Credit Package Purchase,1
+9,3,7046654,12063293,Credit Package Purchase,1
+9,9,7046717,12027188,Credit Package Purchase,1
+9,3,7046720,12059897,Credit Package Purchase,1
+9,9,7046747,12027188,Auction Win,1
+9,7,7046765,12042278,Auction Win,1
+9,9,7046807,12027188,Credit Package Purchase,1
+9,3,7046840,12059273,Buy Now Purchase,1
+9,5,7046843,12049199,Buy Now Purchase,1
+9,3,7046861,12063293,Buy Now Purchase,1
+9,5,7046900,12050438,Buy Now Purchase,1
+9,9,7046909,12030830,Credit Package Purchase,1
+9,8,7046930,12031880,Credit Package Purchase,1
+9,4,7047077,12055673,Auction Win,1
+9,4,7047095,12055673,Auction Win,1
+9,4,7047098,12055673,Auction Win,1
+9,3,7047113,12063293,Auction Win,1
+9,9,7047122,12030830,Buy Now Purchase,1
+9,9,7047269,12027005,Auction Win,1
+9,9,7047566,12030830,Buy Now Purchase,1
+9,9,7047596,12026381,Buy Now Purchase,1
+9,4,7047599,12052136,Auction Win,1
+9,3,7047719,12058616,Auction Win,1
+9,3,7047842,12060692,Credit Package Purchase,1
+9,3,7047869,12059363,Credit Package Purchase,1
+9,4,7047878,12053849,Buy Now Purchase,1
+9,4,7047905,12053849,Auction Win,1
+9,6,7047956,12045335,Credit Package Purchase,1
+9,3,7047974,12059300,Buy Now Purchase,1
+9,3,7048013,12060968,Auction Win,1
+9,3,7048148,12058865,Auction Win,1
+9,4,7048310,12056762,Auction Win,1
+9,4,7048331,12053567,Buy Now Purchase,1
+9,4,7048337,12052508,Auction Win,1
+9,6,7048394,12045335,Buy Now Purchase,1
+9,4,7048424,12056201,Buy Now Purchase,1
+9,6,7048505,12044810,Auction Win,1
+9,4,7048514,12057047,Credit Package Purchase,1
+9,3,7048601,12060692,Buy Now Purchase,1
+9,8,7048607,12033161,Credit Package Purchase,1
+9,8,7048649,12033161,Credit Package Purchase,1
+9,3,7048685,12061652,Credit Package Purchase,1
+9,3,7048697,12061592,Buy Now Purchase,1
+9,4,7048700,12056549,Credit Package Purchase,1
+9,8,7048733,12033161,Credit Package Purchase,1
+9,8,7048739,12033161,Credit Package Purchase,1
+9,3,7048748,12061652,Credit Package Purchase,1
+9,3,7048775,12062396,Buy Now Purchase,1
+9,3,7048790,12061652,Credit Package Purchase,1
+9,4,7048808,12057047,Auction Win,1
+9,3,7048847,12061652,Credit Package Purchase,1
+9,9,7048853,12030536,Credit Package Purchase,1
+9,3,7048871,12061652,Credit Package Purchase,1
+9,3,7048880,12061652,Credit Package Purchase,1
+9,3,7048901,12063293,Credit Package Purchase,1
+9,3,7048907,12062396,Auction Win,1
+9,7,7048910,12038036,Auction Win,1
+9,5,7048970,12048293,Buy Now Purchase,1
+9,5,7048973,12049052,Buy Now Purchase,1
+9,4,7049009,12057047,Buy Now Purchase,1
+9,3,7049036,12061652,Buy Now Purchase,1
+9,3,7049072,12061934,Auction Win,1
+9,7,7049135,12041705,Buy Now Purchase,1
+9,7,7049147,12039206,Auction Win,1
+10,9,7049201,12033161,Buy Now Purchase,1
+10,8,7049204,12040826,Auction Win,1
+10,4,7049390,12063293,Buy Now Purchase,1
+10,4,7049480,12060314,Auction Win,1
+10,6,7049573,12048146,Buy Now Purchase,1
+10,6,7049609,12048146,Auction Win,1
+10,6,7049615,12048146,Buy Now Purchase,1
+10,9,7049669,12035999,Buy Now Purchase,1
+10,9,7049672,12035999,Buy Now Purchase,1
+10,4,7049699,12060314,Credit Package Purchase,1
+10,6,7049729,12050099,Auction Win,1
+10,4,7049816,12060968,Buy Now Purchase,1
+10,9,7050044,12034709,Credit Package Purchase,1
+10,5,7050104,12053849,Buy Now Purchase,1
+10,4,7050137,12061973,Credit Package Purchase,1
+10,4,7050194,12061973,Credit Package Purchase,1
+10,4,7050206,12063293,Credit Package Purchase,1
+10,4,7050236,12063293,Credit Package Purchase,1
+10,8,7050239,12039305,Credit Package Purchase,1
+10,4,7050257,12063293,Credit Package Purchase,1
+10,4,7050329,12063293,Credit Package Purchase,1
+10,7,7050356,12044546,Buy Now Purchase,1
+10,4,7050434,12063293,Credit Package Purchase,1
+10,4,7050527,12063293,Credit Package Purchase,1
+10,7,7050611,12046988,Credit Package Purchase,1
+10,4,7050638,12063179,Credit Package Purchase,1
+10,5,7050650,12052853,Credit Package Purchase,1
+10,7,7050656,12043313,Buy Now Purchase,1
+10,6,7050716,12048293,Credit Package Purchase,1
+10,8,7050797,12041705,Auction Win,1
+10,6,7050845,12049874,Buy Now Purchase,1
+10,5,7050893,12052853,Credit Package Purchase,1
+10,5,7050923,12057047,Buy Now Purchase,1
+10,4,7050974,12063293,Buy Now Purchase,1
+10,4,7051013,12063293,Buy Now Purchase,1
+10,4,7051019,12063293,Buy Now Purchase,1
+10,6,7051058,12048293,Buy Now Purchase,1
+11,7,7051163,12048293,Auction Win,1
+11,10,7051202,12036425,Credit Package Purchase,1
+11,5,7051235,12063293,Buy Now Purchase,1
+11,6,7051238,12057644,Auction Win,1
+11,5,7051268,12060875,Credit Package Purchase,1
+11,5,7051271,12060875,Auction Win,1
+11,6,7051277,12057644,Buy Now Purchase,1
+11,5,7051340,12060314,Buy Now Purchase,1
+11,8,7051352,12047027,Auction Win,1
+11,6,7051376,12054005,Buy Now Purchase,1
+11,8,7051394,12043130,Buy Now Purchase,1
+11,5,7051448,12063293,Buy Now Purchase,1
+11,10,7051556,12036425,Credit Package Purchase,1
+11,8,7051571,12047306,Buy Now Purchase,1
+11,5,7051583,12059573,Buy Now Purchase,1
+11,10,7051625,12036425,Credit Package Purchase,1
+11,8,7051643,12044507,Buy Now Purchase,1
+11,10,7051670,12036425,Credit Package Purchase,1
+11,10,7051718,12036425,Credit Package Purchase,1
+11,10,7051733,12036425,Credit Package Purchase,1
+11,9,7051802,12039863,Auction Win,1
+11,8,7051985,12042521,Buy Now Purchase,1
+11,9,7052075,12039470,Buy Now Purchase,1
+11,6,7052084,12054611,Buy Now Purchase,1
+11,5,7052093,12063293,Buy Now Purchase,1
+11,5,7052102,12063293,Buy Now Purchase,1
+11,7,7052234,12048293,Buy Now Purchase,1
+11,8,7052243,12045335,Buy Now Purchase,1
+11,9,7052270,12037523,Credit Package Purchase,1
+11,5,7052291,12063293,Buy Now Purchase,1
+11,7,7052432,12048293,Buy Now Purchase,1
+11,8,7052510,12045335,Buy Now Purchase,1
+11,5,7052621,12060692,Buy Now Purchase,1
+11,5,7052672,12063293,Buy Now Purchase,1
+11,7,7052693,12049712,Auction Win,1
+11,6,7052957,12054236,Buy Now Purchase,1
+12,8,7053110,12051164,Auction Win,1
+12,9,7053254,12045155,Auction Win,1
+12,9,7053266,12045155,Auction Win,1
+12,9,7053287,12043313,Credit Package Purchase,1
+12,8,7053326,12049133,Auction Win,1
+12,9,7053407,12045155,Auction Win,1
+12,9,7053425,12043313,Auction Win,1
+12,9,7053434,12043313,Auction Win,1
+12,6,7053545,12061907,Buy Now Purchase,1
+12,9,7053608,12042941,Credit Package Purchase,1
+12,9,7053725,12043523,Credit Package Purchase,1
+12,6,7053764,12058181,Credit Package Purchase,1
+12,9,7053767,12042941,Buy Now Purchase,1
+12,10,7053809,12037670,Buy Now Purchase,1
+12,10,7053812,12037670,Buy Now Purchase,1
+12,10,7053848,12037523,Credit Package Purchase,1
+12,12,7053887,12026381,Credit Package Purchase,1
+12,8,7053902,12050243,Credit Package Purchase,1
+12,6,7053992,12061592,Credit Package Purchase,1
+12,7,7054055,12053849,Buy Now Purchase,1
+12,6,7054124,12062396,Credit Package Purchase,1
+12,8,7054187,12047624,Credit Package Purchase,1
+12,8,7054217,12047624,Credit Package Purchase,1
+12,11,7054244,12033161,Credit Package Purchase,1
+12,11,7054316,12033161,Credit Package Purchase,1
+12,6,7054367,12063365,Auction Win,1
+12,6,7054493,12061652,Auction Win,1
+12,7,7054589,12053201,Buy Now Purchase,1
+12,7,7054592,12053201,Buy Now Purchase,1
+12,7,7054598,12053201,Buy Now Purchase,1
+12,6,7054640,12062396,Credit Package Purchase,1
+12,8,7054682,12049712,Credit Package Purchase,1
+12,8,7054769,12050333,Buy Now Purchase,1
+12,8,7054781,12047624,Credit Package Purchase,1
+12,8,7054787,12050333,Auction Win,1
+12,8,7054820,12050333,Credit Package Purchase,1
+12,8,7054826,12049685,Auction Win,1
+12,8,7054829,12050333,Auction Win,1
+12,8,7054847,12050333,Credit Package Purchase,1
+12,8,7054862,12050333,Credit Package Purchase,1
+12,8,7054892,12050333,Credit Package Purchase,1
+12,8,7054901,12050333,Credit Package Purchase,1
+12,8,7054937,12050333,Credit Package Purchase,1
+12,11,7054946,12030908,Credit Package Purchase,1
+12,11,7054958,12030908,Auction Win,1
+12,8,7054982,12050333,Buy Now Purchase,1
+12,8,7055129,12050441,Buy Now Purchase,1
+13,7,7055360,12059255,Credit Package Purchase,1
+13,7,7055393,12061151,Auction Win,1
+13,8,7055561,12056975,Buy Now Purchase,1
+13,8,7055615,12052667,Auction Win,1
+13,7,7055645,12063293,Buy Now Purchase,1
+13,12,7055750,12031622,Auction Win,1
+13,7,7055828,12063293,Credit Package Purchase,1
+13,7,7055858,12063293,Buy Now Purchase,1
+13,12,7056185,12036332,Auction Win,1
+13,7,7056515,12061442,Credit Package Purchase,1
+13,7,7056542,12061442,Auction Win,1
+13,10,7056611,12042599,Buy Now Purchase,1
+13,7,7056614,12061442,Auction Win,1
+13,11,7056812,12038564,Buy Now Purchase,1
+13,10,7056953,12043040,Buy Now Purchase,1
+13,10,7057025,12043460,Buy Now Purchase,1
+13,10,7057154,12042599,Credit Package Purchase,1
+13,13,7057301,12026381,Buy Now Purchase,1
+13,8,7057415,12053201,Auction Win,1
+13,8,7057442,12053201,Buy Now Purchase,1
+13,10,7057619,12045155,Auction Win,1
+13,7,7057622,12059897,Credit Package Purchase,1
+13,7,7057628,12058181,Buy Now Purchase,1
+13,9,7057682,12047624,Credit Package Purchase,1
+13,9,7057739,12049712,Auction Win,1
+13,8,7057826,12057743,Buy Now Purchase,1
+14,8,7058006,12063293,Credit Package Purchase,1
+14,8,7058018,12063293,Credit Package Purchase,1
+14,8,7058024,12063293,Credit Package Purchase,1
+14,8,7058051,12063293,Credit Package Purchase,1
+14,14,7058153,12027188,Buy Now Purchase,1
+14,14,7058183,12026708,Buy Now Purchase,1
+14,12,7058279,12037523,Credit Package Purchase,1
+6,1,7058327,12052217,Buy Now Purchase,1
+14,8,7058357,12063293,Buy Now Purchase,1
+14,8,7058366,12063293,Credit Package Purchase,1
+14,8,7058375,12063293,Buy Now Purchase,1
+14,8,7058405,12063293,Credit Package Purchase,1
+14,8,7058420,12063293,Credit Package Purchase,1
+14,8,7058528,12063293,Credit Package Purchase,1
+14,8,7058558,12063293,Credit Package Purchase,1
+14,8,7058960,12059543,Buy Now Purchase,1
+14,11,7059155,12043040,Buy Now Purchase,1
+14,14,7059215,12028202,Buy Now Purchase,1
+14,8,7059266,12061055,Buy Now Purchase,1
+14,8,7059326,12058181,Buy Now Purchase,1
+14,9,7059446,12055409,Auction Win,1
+14,10,7059497,12049712,Auction Win,2
+14,12,7059554,12039863,Buy Now Purchase,1
+14,12,7059611,12037523,Credit Package Purchase,1
+14,10,7059623,12049712,Buy Now Purchase,2
+14,8,7059626,12062396,Credit Package Purchase,1
+14,8,7059629,12062396,Buy Now Purchase,1
+14,8,7059632,12062396,Buy Now Purchase,1
+14,12,7059671,12037523,Credit Package Purchase,1
+14,8,7059812,12059255,Buy Now Purchase,1
+14,8,7059818,12059255,Buy Now Purchase,1
+14,8,7059827,12062396,Buy Now Purchase,1
+14,8,7059914,12062396,Buy Now Purchase,1
+14,12,7060004,12037523,Credit Package Purchase,1
+14,9,7060007,12057047,Credit Package Purchase,1
+14,13,7060013,12033161,Auction Win,1
+14,8,7060139,12062396,Credit Package Purchase,1
+14,12,7060178,12037523,Credit Package Purchase,1
+14,9,7060181,12057047,Buy Now Purchase,1
+14,11,7060190,12043313,Buy Now Purchase,1
+14,9,7060241,12057047,Credit Package Purchase,1
+14,9,7060259,12057047,Buy Now Purchase,1
+14,12,7060283,12037523,Credit Package Purchase,1
+14,9,7060301,12057047,Auction Win,1
+14,9,7060319,12057047,Buy Now Purchase,1
+15,9,7060451,12063293,Buy Now Purchase,2
+15,15,7060568,12026381,Auction Win,1
+15,9,7060616,12059897,Buy Now Purchase,1
+15,9,7060637,12059255,Buy Now Purchase,1
+15,10,7060694,12053849,Buy Now Purchase,1
+15,13,7060709,12037523,Credit Package Purchase,1
+15,13,7060730,12037523,Credit Package Purchase,1
+15,9,7060766,12061151,Buy Now Purchase,1
+15,13,7061126,12039305,Buy Now Purchase,1
+15,9,7061159,12062396,Buy Now Purchase,1
+15,9,7061162,12062396,Buy Now Purchase,1
+15,15,7061312,12026381,Buy Now Purchase,1
+15,12,7061378,12047390,Buy Now Purchase,1
+15,9,7061528,12062396,Buy Now Purchase,1
+15,9,7061786,12063059,Buy Now Purchase,1
+15,13,7061819,12040700,Auction Win,1
+15,10,7061993,12057047,Buy Now Purchase,1
+15,9,7062362,12061151,Buy Now Purchase,1
+15,15,7062509,12026381,Credit Package Purchase,1
+16,16,7063220,12030830,Credit Package Purchase,1
+16,14,7063505,12039863,Credit Package Purchase,1
+16,13,7063619,12043415,Credit Package Purchase,1
+16,10,7063679,12062396,Credit Package Purchase,1
+16,11,7063838,12057812,Credit Package Purchase,1
+16,16,7063907,12026810,Credit Package Purchase,1
+16,16,7063958,12026381,Credit Package Purchase,1
+16,16,7064132,12026708,Buy Now Purchase,1
+16,14,7064378,12038138,Credit Package Purchase,1
+16,13,7064438,12043130,Buy Now Purchase,1
+16,10,7064444,12062396,Credit Package Purchase,1
+16,13,7064645,12044621,Credit Package Purchase,1
+16,15,7064861,12035339,Auction Win,1
+16,10,7065050,12062396,Credit Package Purchase,1
+16,10,7065209,12062396,Credit Package Purchase,1
+16,10,7065284,12062396,Auction Win,1
+16,10,7065314,12062396,Auction Win,1
+16,11,7065365,12055673,Credit Package Purchase,1
+16,14,7065413,12040700,Credit Package Purchase,1
+16,10,7065563,12062396,Auction Win,1
+16,13,7065581,12043040,Buy Now Purchase,1
+16,16,7065752,12030830,Credit Package Purchase,1
+17,15,7066139,12038138,Auction Win,1
+17,16,7066727,12032084,Auction Win,1
+17,16,7066733,12033161,Credit Package Purchase,1
+17,12,7066742,12052700,Auction Win,1
+17,16,7067324,12035339,Credit Package Purchase,1
+17,11,7067564,12062396,Credit Package Purchase,1
+17,16,7067771,12035339,Credit Package Purchase,1
+17,12,7067873,12057047,Buy Now Purchase,1
+17,17,7067906,12027536,Credit Package Purchase,1
+17,16,7067981,12035339,Credit Package Purchase,1
+17,16,7068023,12035339,Credit Package Purchase,1
+17,15,7068191,12040700,Buy Now Purchase,1
+17,14,7068278,12043853,Credit Package Purchase,1
+17,14,7068332,12043853,Buy Now Purchase,1
+17,13,7068632,12050333,Credit Package Purchase,1
+17,13,7068647,12050333,Credit Package Purchase,1
+17,13,7068674,12050333,Credit Package Purchase,1
+17,13,7068689,12050333,Credit Package Purchase,1
+17,13,7068704,12050333,Credit Package Purchase,1
+17,13,7068725,12050333,Credit Package Purchase,1
+18,18,7069025,12030830,Credit Package Purchase,1
+18,12,7069400,12062396,Buy Now Purchase,1
+18,13,7070174,12052241,Credit Package Purchase,1
+18,12,7070459,12061940,Auction Win,1
+18,12,7070516,12061940,Buy Now Purchase,1
+18,15,7070630,12043649,Credit Package Purchase,1
+18,17,7070780,12033161,Credit Package Purchase,1
+18,18,7070972,12030053,Buy Now Purchase,1
+18,13,7071044,12054401,Credit Package Purchase,1
+18,18,7071674,12030830,Buy Now Purchase,1
+18,16,7071683,12042041,Credit Package Purchase,1
+18,13,7071728,12054401,Auction Win,1
+18,18,7071896,12028712,Credit Package Purchase,1
+18,15,7071962,12042521,Buy Now Purchase,1
+19,19,7072226,12027005,Auction Win,1
+19,18,7072403,12033161,Credit Package Purchase,1
+19,18,7072535,12033161,Credit Package Purchase,1
+19,14,7073651,12054401,Buy Now Purchase,1
+19,14,7074086,12053159,Credit Package Purchase,1
+19,14,7074098,12053159,Auction Win,1
+19,19,7074113,12026381,Buy Now Purchase,1
+19,14,7074152,12054401,Buy Now Purchase,1
+19,14,7074233,12056201,Credit Package Purchase,1
+19,17,7074725,12041966,Auction Win,1
+19,13,7075067,12063293,Credit Package Purchase,1
+19,19,7075145,12027986,Credit Package Purchase,1
+19,13,7075172,12063293,Credit Package Purchase,1
+20,16,7075730,12047783,Auction Win,1
+20,14,7076348,12060314,Credit Package Purchase,1
+20,18,7076402,12037019,Credit Package Purchase,1
+20,19,7076636,12032162,Credit Package Purchase,1
+20,18,7076810,12037019,Credit Package Purchase,1
+20,14,7076822,12063293,Credit Package Purchase,1
+20,14,7077380,12063293,Buy Now Purchase,1
+20,20,7077476,12026381,Credit Package Purchase,1
+20,14,7077905,12058412,Buy Now Purchase,1
+20,14,7077914,12058412,Buy Now Purchase,1
+20,14,7077920,12058412,Buy Now Purchase,1
+20,20,7078334,12026381,Buy Now Purchase,1
+21,15,7079798,12060314,Buy Now Purchase,1
+21,15,7079873,12058412,Auction Win,1
+21,15,7080242,12057902,Credit Package Purchase,1
+21,20,7080554,12032084,Buy Now Purchase,1
+21,18,7080779,12043853,Buy Now Purchase,1
+21,15,7081817,12063293,Credit Package Purchase,1
+21,15,7082651,12061151,Buy Now Purchase,1
+21,15,7083506,12057902,Buy Now Purchase,1
+22,21,7084010,12033161,Credit Package Purchase,1
+22,21,7084196,12033161,Credit Package Purchase,1
+22,21,7084364,12033161,Buy Now Purchase,1
+22,22,7084472,12026381,Buy Now Purchase,1
+22,17,7084493,12056000,Credit Package Purchase,1
+22,22,7084754,12029831,Auction Win,1
+22,22,7085042,12030830,Buy Now Purchase,1
+22,18,7086755,12049712,Credit Package Purchase,1
+22,19,7086986,12042599,Buy Now Purchase,1
+22,20,7087001,12038564,Buy Now Purchase,1
+22,21,7087181,12036737,Credit Package Purchase,1
+23,22,7087211,12036737,Credit Package Purchase,1
+23,21,7087874,12039149,Credit Package Purchase,1
+23,19,7088198,12049682,Credit Package Purchase,1
+23,23,7088702,12026381,Credit Package Purchase,1
+23,23,7090397,12026381,Buy Now Purchase,1
+23,17,7090706,12062396,Credit Package Purchase,1
+23,17,7090871,12063293,Buy Now Purchase,1
+23,17,7090931,12063293,Credit Package Purchase,1
+23,18,7091000,12052178,Auction Win,1
+24,23,7093766,12032084,Credit Package Purchase,1
+25,22,7095065,12045461,Credit Package Purchase,1
+25,20,7095440,12053873,Buy Now Purchase,1
+25,23,7096235,12038138,Buy Now Purchase,2
+25,23,7096391,12037019,Credit Package Purchase,1
+25,23,7096433,12037019,Credit Package Purchase,1
+25,19,7096865,12060314,Buy Now Purchase,1
+25,23,7097198,12037019,Credit Package Purchase,1
+25,21,7097621,12049712,Credit Package Purchase,1
+25,23,7097648,12037019,Buy Now Purchase,1
+25,20,7098368,12053159,Buy Now Purchase,1
+25,20,7098566,12053159,Buy Now Purchase,1
+26,22,7099781,12049712,Buy Now Purchase,1
+26,21,7099844,12053159,Buy Now Purchase,1
+26,26,7100312,12026381,Buy Now Purchase,1
+27,21,7102937,12061811,Credit Package Purchase,1
+27,27,7103426,12026381,Credit Package Purchase,1
+27,27,7103984,12026381,Credit Package Purchase,1
+27,26,7104356,12036278,Auction Win,1
+27,23,7104707,12049712,Credit Package Purchase,1
+27,27,7105412,12030830,Credit Package Purchase,1
+27,21,7105613,12063038,Credit Package Purchase,1
+27,22,7105649,12054767,Credit Package Purchase,1
+27,24,7105895,12046328,Credit Package Purchase,1
+27,24,7105916,12046328,Auction Win,1
+27,23,7105970,12049712,Credit Package Purchase,1
+28,26,7107200,12039149,Buy Now Purchase,1
+28,24,7107392,12049712,Auction Win,3
+28,24,7107554,12049682,Buy Now Purchase,1
+28,28,7108223,12030830,Buy Now Purchase,1
+28,25,7108445,12046328,Auction Win,1
+28,22,7109627,12059921,Credit Package Purchase,1
+28,22,7109900,12059921,Buy Now Purchase,1
+29,23,7110776,12063293,Credit Package Purchase,1
+29,23,7110794,12063293,Buy Now Purchase,1
+29,23,7110818,12063293,Buy Now Purchase,1
+29,29,7110881,12030830,Auction Win,1
+29,29,7112627,12026381,Buy Now Purchase,1
+29,29,7112657,12026381,Buy Now Purchase,1
+29,29,7112666,12026381,Buy Now Purchase,1
+29,28,7113011,12030947,Credit Package Purchase,1
+30,30,7114217,12030830,Buy Now Purchase,1
+30,27,7114427,12043601,Credit Package Purchase,1
+30,27,7114454,12043601,Auction Win,1
+30,24,7114655,12062396,Credit Package Purchase,1
+30,27,7114919,12043601,Auction Win,1
+30,29,7115084,12034823,Credit Package Purchase,1
+30,30,7115210,12026381,Credit Package Purchase,1
+30,29,7115873,12034823,Credit Package Purchase,1
+30,29,7116158,12034823,Credit Package Purchase,1
+30,29,7116581,12034823,Buy Now Purchase,1
+30,26,7117022,12049712,Credit Package Purchase,1
+30,30,7117412,12030830,Buy Now Purchase,1
+30,24,7117649,12061253,Credit Package Purchase,1
+30,24,7117652,12063293,Credit Package Purchase,1
+30,24,7117673,12061253,Auction Win,1
+30,24,7117745,12061253,Credit Package Purchase,1
+31,26,7118303,12052700,Auction Win,1
+31,26,7118321,12052700,Auction Win,1
+31,26,7118330,12052700,Auction Win,1
+31,26,7118387,12052700,Auction Win,1
+31,29,7118633,12038138,Buy Now Purchase,2
+31,25,7118960,12063293,Credit Package Purchase,1
+31,31,7119485,12026381,Buy Now Purchase,1
+31,30,7119650,12032084,Buy Now Purchase,1
+31,31,7120589,12026381,Credit Package Purchase,1
+1,31,7121771,12030983,Auction Win,1
+1,32,7122782,12026381,Auction Win,1
+1,32,7122887,12026381,Auction Win,1
+1,26,7123223,12061811,Buy Now Purchase,1
+1,27,7123670,12054767,Auction Win,1
+2,27,7123814,12063293,Credit Package Purchase,1
+2,27,7124534,12063293,Buy Now Purchase,1
+2,27,7124549,12061811,Auction Win,1
+2,27,7125092,12061811,Buy Now Purchase,1
+2,33,7125257,12026381,Buy Now Purchase,1
+2,33,7125281,12026381,Buy Now Purchase,1
+2,30,7125815,12043601,Credit Package Purchase,1
+2,30,7125860,12043601,Credit Package Purchase,1
+2,30,7126649,12043601,Credit Package Purchase,1
+3,31,7126955,12043601,Credit Package Purchase,1
+3,31,7126958,12043601,Buy Now Purchase,1
+3,28,7128644,12062396,Credit Package Purchase,1
+3,31,7128905,12043601,Credit Package Purchase,1
+3,34,7128995,12026381,Buy Now Purchase,1
+3,34,7129037,12026381,Credit Package Purchase,1
+3,31,7129187,12043601,Credit Package Purchase,1
+3,32,7129376,12042278,Credit Package Purchase,1
+3,31,7129463,12043601,Credit Package Purchase,1
+3,31,7129520,12043601,Credit Package Purchase,1
+3,32,7129562,12042278,Credit Package Purchase,1
+3,32,7129763,12042278,Credit Package Purchase,1
+3,28,7129823,12062396,Credit Package Purchase,1
+3,32,7129850,12042278,Credit Package Purchase,1
+3,31,7129892,12043601,Credit Package Purchase,1
+3,32,7130021,12042278,Credit Package Purchase,1
+3,32,7130231,12042278,Credit Package Purchase,1
+3,31,7130264,12043601,Credit Package Purchase,1
+3,31,7130330,12043601,Auction Win,1
+3,31,7130441,12043601,Credit Package Purchase,1
+4,32,7130567,12043601,Credit Package Purchase,1
+4,32,7130597,12043601,Credit Package Purchase,1
+4,32,7130762,12043601,Credit Package Purchase,1
+4,32,7130921,12043601,Credit Package Purchase,1
+4,32,7130957,12043601,Credit Package Purchase,1
+4,32,7131125,12043601,Credit Package Purchase,1
+4,35,7133150,12030830,Buy Now Purchase,1
+5,32,7133984,12049712,Buy Now Purchase,1
+5,30,7134485,12062396,Buy Now Purchase,1
+5,36,7134509,12027080,Credit Package Purchase,1
+5,32,7135511,12049052,Credit Package Purchase,1
+5,32,7135967,12051713,Credit Package Purchase,1
+5,36,7136039,12030830,Buy Now Purchase,1
+5,30,7136264,12062396,Credit Package Purchase,1
+5,33,7136732,12046358,Buy Now Purchase,1
+6,32,7137716,12056969,Auction Win,1
+6,33,7139555,12049517,Buy Now Purchase,1
+6,31,7139753,12062396,Buy Now Purchase,1
+6,37,7139906,12026381,Credit Package Purchase,1
+7,38,7141856,12027029,Credit Package Purchase,1
+7,38,7141937,12027029,Credit Package Purchase,1
+7,38,7141982,12027029,Credit Package Purchase,1
+7,38,7142051,12027029,Credit Package Purchase,1
+7,38,7142096,12027029,Credit Package Purchase,1
+7,38,7142114,12027029,Credit Package Purchase,1
+7,38,7142705,12026381,Buy Now Purchase,1
+8,36,7145768,12045140,Auction Win,1
+8,39,7146767,12026381,Buy Now Purchase,1
+8,33,7146800,12062396,Buy Now Purchase,1
+9,40,7148414,12026381,Buy Now Purchase,1
+9,36,7148768,12050822,Buy Now Purchase,1
+9,36,7148780,12050822,Buy Now Purchase,1
+9,36,7148825,12050822,Auction Win,1
+10,38,7150820,12046328,Auction Win,1
+10,35,7150874,12058169,Credit Package Purchase,1
+10,35,7151183,12058169,Credit Package Purchase,1
+10,35,7151294,12058169,Buy Now Purchase,1
+10,35,7151327,12058169,Credit Package Purchase,1
+10,35,7151396,12058169,Credit Package Purchase,1
+10,35,7151528,12058169,Buy Now Purchase,1
+10,35,7151561,12058169,Credit Package Purchase,1
+10,35,7153883,12062396,Credit Package Purchase,1
+10,37,7154285,12049712,Credit Package Purchase,1
+10,35,7154348,12062396,Credit Package Purchase,1
+10,41,7154474,12027125,Credit Package Purchase,1
+11,36,7156739,12062396,Buy Now Purchase,1
+12,37,7158308,12058169,Buy Now Purchase,1
+12,37,7158350,12058169,Auction Win,1
+12,40,7158527,12043613,Auction Win,1
+13,44,7162835,12030830,Credit Package Purchase,1
+13,41,7162877,12043613,Credit Package Purchase,1
+13,41,7163804,12043613,Auction Win,1
+13,41,7165388,12045155,Credit Package Purchase,1
+14,45,7166282,12030830,Buy Now Purchase,1
+14,45,7168268,12030830,Buy Now Purchase,1
+14,41,7168418,12049712,Auction Win,1
+14,41,7168496,12049712,Auction Win,1
+15,40,7169651,12059897,Auction Win,1
+15,42,7171217,12049712,Auction Win,1
+15,46,7171586,12030830,Buy Now Purchase,1
+16,43,7173953,12049712,Auction Win,1
+17,44,7176269,12049688,Credit Package Purchase,1
+17,44,7177022,12049688,Credit Package Purchase,1
+17,45,7178831,12043601,Buy Now Purchase,1
+17,44,7179272,12049712,Credit Package Purchase,1
+18,46,7179416,12046328,Auction Win,1
+18,45,7182788,12049712,Credit Package Purchase,1
+18,45,7182965,12049688,Credit Package Purchase,1
+22,50,7196864,12046328,Auction Win,1
+23,53,7198733,12035039,Credit Package Purchase,1
+23,53,7198751,12035039,Auction Win,1
+23,48,7199972,12061454,Credit Package Purchase,1
+23,48,7200002,12061454,Auction Win,1
+23,48,7200026,12061454,Credit Package Purchase,1
+24,51,7201556,12049688,Credit Package Purchase,1
+24,51,7202147,12049688,Credit Package Purchase,1
+24,54,7202510,12036476,Credit Package Purchase,1
+24,51,7202837,12049688,Credit Package Purchase,1
+24,51,7203401,12049688,Buy Now Purchase,1
+24,51,7203683,12049688,Auction Win,2
+24,51,7203890,12049688,Credit Package Purchase,1
+24,51,7204340,12049688,Credit Package Purchase,1
+24,51,7204397,12049688,Credit Package Purchase,1
+25,54,7208042,12037505,Credit Package Purchase,1
+25,52,7208093,12049688,Buy Now Purchase,2
+25,53,7208333,12043601,Buy Now Purchase,1
+25,52,7208849,12049712,Buy Now Purchase,1
+27,57,7216559,12034709,Credit Package Purchase,1
+28,56,7222277,12043601,Buy Now Purchase,1
+29,56,7226348,12049712,Auction Win,1
+29,56,7226888,12049712,Auction Win,1
+30,57,7231508,12049712,Auction Win,2
+1,62,7234442,12029252,Credit Package Purchase,1
+1,60,7236473,12038726,Credit Package Purchase,1
+2,62,7241069,12034118,Credit Package Purchase,1
+2,62,7241366,12034118,Auction Win,1
+2,62,7241405,12034118,Auction Win,1
+2,62,7241447,12034118,Auction Win,1
+2,62,7241648,12034118,Credit Package Purchase,1
+2,62,7241687,12034118,Credit Package Purchase,1
+3,63,7241756,12034118,Credit Package Purchase,1
+3,63,7241801,12034118,Buy Now Purchase,1
+3,63,7242524,12034118,Auction Win,1
+3,59,7244354,12057737,Auction Win,1
+3,62,7244942,12041672,Buy Now Purchase,1
+4,62,7249274,12046397,Credit Package Purchase,1
+4,62,7249376,12046397,Auction Win,1
+5,62,7251377,12050468,Credit Package Purchase,1
+5,62,7251386,12050468,Auction Win,1
+5,63,7252406,12046397,Buy Now Purchase,1
+8,64,7261364,12057737,Credit Package Purchase,1
+8,65,7262708,12049712,Credit Package Purchase,1
+9,66,7264976,12050468,Auction Win,1
+9,65,7265540,12057737,Auction Win,1
+9,65,7265594,12057737,Buy Now Purchase,1
+9,69,7266458,12035186,Credit Package Purchase,1
+9,69,7266554,12035186,Credit Package Purchase,1
+10,66,7268351,12057737,Buy Now Purchase,1
+10,65,7269359,12061151,Buy Now Purchase,1
+10,65,7270073,12063071,Credit Package Purchase,1
+10,65,7270088,12063071,Auction Win,1
+11,68,7273382,12049712,Credit Package Purchase,1
+13,73,7277105,12034952,Credit Package Purchase,1
+13,73,7277180,12034952,Auction Win,1
+13,73,7277183,12034952,Auction Win,1
+15,72,7284608,12049712,Auction Win,1
+17,74,7292363,12051764,Auction Win,1
+17,74,7293404,12049712,Auction Win,1
+20,79,7301774,12039464,Credit Package Purchase,1
+21,78,7306643,12049712,Buy Now Purchase,1
+22,79,7311056,12049712,Credit Package Purchase,1
+23,82,7314680,12041720,Auction Win,1
+25,82,7323590,12050747,Auction Win,1
+25,80,7324154,12061043,Credit Package Purchase,1
+25,80,7324184,12061043,Auction Win,1
+25,80,7324265,12061043,Auction Win,1
+25,80,7324295,12061043,Auction Win,1
+25,80,7324373,12061043,Auction Win,1
+25,80,7324517,12061043,Credit Package Purchase,1
+25,80,7324595,12061043,Buy Now Purchase,1
+27,84,7335452,12049436,Credit Package Purchase,1
+27,84,7335527,12049436,Auction Win,1
+28,83,7337510,12058544,Buy Now Purchase,1
+28,83,7337528,12058544,Buy Now Purchase,1
+31,88,7352195,12049712,Credit Package Purchase,1
+31,92,7353602,12030830,Credit Package Purchase,1
+1,88,7355432,12056681,Credit Package Purchase,1
+1,88,7355501,12056681,Credit Package Purchase,1
+1,88,7356422,12056681,Credit Package Purchase,1
+1,87,7356431,12058484,Auction Win,1
+1,88,7356788,12056681,Credit Package Purchase,1
+1,88,7356854,12056681,Credit Package Purchase,1
+2,93,7366934,12033875,Credit Package Purchase,1
+2,92,7367489,12038276,Credit Package Purchase,1
+5,93,7392275,12049712,Credit Package Purchase,1
+6,95,7394573,12046328,Auction Win,1
+6,98,7397042,12030470,Credit Package Purchase,1
+7,93,7404443,12060374,Credit Package Purchase,1
+8,94,7410329,12061151,Buy Now Purchase,1
+9,97,7417358,12049712,Auction Win,1
+9,97,7417373,12049793,Buy Now Purchase,1
+10,98,7423106,12049712,Credit Package Purchase,1
+10,98,7425164,12049712,Credit Package Purchase,1
+13,105,7440584,12030830,Buy Now Purchase,1
+13,105,7440587,12030830,Buy Now Purchase,1
+14,104,7442759,12039863,Buy Now Purchase,1
+14,104,7442774,12039863,Buy Now Purchase,1
+15,101,7446347,12061151,Buy Now Purchase,1
+15,102,7448057,12054818,Buy Now Purchase,1
+18,106,7461611,12049712,Buy Now Purchase,1
+19,107,7469390,12049712,Auction Win,1
+22,110,7485140,12049712,Auction Win,1
+23,111,7490393,12049712,Auction Win,1
+24,111,7496261,12056024,Auction Win,1
+29,118,7520480,12044993,Credit Package Purchase,1
+29,118,7520489,12044993,Auction Win,1
+31,117,7531937,12058058,Credit Package Purchase,1
+31,117,7532078,12058058,Credit Package Purchase,1
+31,117,7532177,12058058,Credit Package Purchase,1
+31,117,7532300,12058058,Credit Package Purchase,1
+31,117,7532345,12058058,Credit Package Purchase,1
+31,117,7532408,12058058,Credit Package Purchase,1
+31,121,7534322,12037505,Credit Package Purchase,1
+1,124,7538486,12030008,Credit Package Purchase,1
+1,124,7538537,12030008,Auction Win,1
+2,124,7541420,12031070,Credit Package Purchase,1
+2,124,7541429,12031070,Auction Win,1
+2,120,7542371,12057047,Credit Package Purchase,1
+2,121,7544123,12049712,Credit Package Purchase,1
+3,122,7550888,12049451,Credit Package Purchase,1
+3,122,7551194,12049451,Credit Package Purchase,1
+3,122,7551308,12049451,Credit Package Purchase,1
+3,122,7551377,12049451,Credit Package Purchase,1
+3,122,7551422,12049451,Credit Package Purchase,1
+3,122,7551488,12049451,Buy Now Purchase,1
+3,122,7551581,12049451,Buy Now Purchase,1
+4,123,7551644,12049451,Buy Now Purchase,2
+6,125,7565024,12049712,Auction Win,1
+8,131,7573397,12028820,Credit Package Purchase,1
+8,131,7573535,12028820,Auction Win,1
+8,127,7573757,12049712,Auction Win,1
+8,131,7573793,12028820,Auction Win,1
+8,131,7573928,12028820,Buy Now Purchase,1
+8,131,7574051,12028820,Auction Win,1
+8,131,7574102,12028820,Buy Now Purchase,1
+8,131,7574192,12028820,Buy Now Purchase,1
+8,131,7574339,12028820,Buy Now Purchase,1
+8,131,7574513,12028820,Buy Now Purchase,1
+8,131,7574624,12028820,Buy Now Purchase,1
+9,132,7574801,12028820,Buy Now Purchase,1
+9,132,7574924,12028820,Credit Package Purchase,1
+9,128,7576439,12050786,Credit Package Purchase,1
+9,127,7578707,12057047,Buy Now Purchase,1
+9,127,7578719,12057047,Buy Now Purchase,1
+9,132,7579931,12028820,Buy Now Purchase,1
+9,130,7580099,12037505,Credit Package Purchase,1
+10,133,7582517,12028820,Buy Now Purchase,1
+10,127,7583375,12059255,Credit Package Purchase,1
+10,127,7583486,12059255,Credit Package Purchase,1
+10,127,7583567,12059255,Credit Package Purchase,1
+10,127,7583585,12059255,Credit Package Purchase,1
+10,127,7583600,12059255,Credit Package Purchase,1
+10,127,7583615,12059255,Credit Package Purchase,1
+10,133,7584236,12026291,Credit Package Purchase,1
+10,133,7584395,12026291,Auction Win,1
+10,129,7584488,12049712,Buy Now Purchase,1
+11,129,7587917,12057347,Credit Package Purchase,1
+12,129,7592252,12059255,Credit Package Purchase,1
+12,135,7593071,12030830,Credit Package Purchase,1
+12,132,7595729,12043601,Credit Package Purchase,1
+14,137,7599911,12030830,Buy Now Purchase,1
+14,137,7599914,12030830,Buy Now Purchase,1
+14,132,7601687,12057047,Auction Win,1
+14,132,7601900,12057047,Credit Package Purchase,1
+14,132,7602251,12057047,Credit Package Purchase,1
+14,133,7603874,12049712,Credit Package Purchase,1
+16,136,7612658,12043601,Buy Now Purchase,1
+16,134,7612700,12057047,Buy Now Purchase,1
+16,134,7612706,12057047,Buy Now Purchase,1
+16,134,7612727,12057047,Buy Now Purchase,1
+16,135,7613648,12049712,Credit Package Purchase,1
+16,136,7614080,12043601,Credit Package Purchase,1
+16,138,7614314,12036311,Credit Package Purchase,1
+16,139,7614740,12030830,Credit Package Purchase,1
+17,136,7617365,12047561,Credit Package Purchase,1
+17,140,7619072,12026738,Auction Win,1
+18,141,7619261,12026738,Buy Now Purchase,1
+18,138,7619354,12046328,Auction Win,1
+18,137,7620407,12047561,Buy Now Purchase,1
+19,139,7624940,12047177,Credit Package Purchase,1
+19,142,7625231,12026381,Credit Package Purchase,1
+19,139,7626905,12043601,Buy Now Purchase,1
+19,139,7627010,12047177,Auction Win,1
+19,139,7627214,12047177,Credit Package Purchase,1
+19,139,7627565,12047177,Auction Win,1
+19,139,7627700,12047177,Auction Win,1
+20,143,7629341,12030830,Buy Now Purchase,1
+20,143,7629356,12030830,Buy Now Purchase,1
+21,141,7635761,12046328,Auction Win,1
+26,147,7658759,12041675,Credit Package Purchase,1
+28,148,7664933,12046328,Auction Win,1
+28,151,7666124,12026381,Credit Package Purchase,1
+28,149,7668182,12040007,Credit Package Purchase,1
+1,150,7669493,12040007,Credit Package Purchase,1
+1,152,7669859,12026381,Buy Now Purchase,1
+2,152,7676276,12030953,Credit Package Purchase,1
+2,152,7676390,12030953,Auction Win,1
+2,153,7678604,12026381,Buy Now Purchase,1
+2,153,7678616,12026381,Buy Now Purchase,1
+3,149,7682453,12055496,Credit Package Purchase,1
+6,156,7691954,12030953,Auction Win,1
+8,155,7701161,12049712,Auction Win,1
+8,155,7701479,12049712,Auction Win,1
+8,155,7701581,12049712,Auction Win,1
+8,155,7701698,12049712,Auction Win,1
+9,158,7706084,12037505,Credit Package Purchase,1
+11,162,7716374,12030830,Buy Now Purchase,1
+12,163,7719977,12029831,Credit Package Purchase,1
+12,163,7720205,12029831,Auction Win,1
+12,163,7720244,12029831,Auction Win,1
+13,164,7722035,12026255,Credit Package Purchase,1
+14,162,7727525,12046763,Credit Package Purchase,1
+20,169,7759985,12040151,Auction Win,1
+21,171,7766846,12036215,Credit Package Purchase,1
+21,171,7766921,12036215,Auction Win,1
+22,169,7772840,12049712,Auction Win,1
+23,169,7779095,12056621,Credit Package Purchase,1
+23,169,7779125,12056621,Auction Win,1
+23,169,7779329,12056621,Credit Package Purchase,1
+23,169,7779359,12056621,Credit Package Purchase,1
+23,169,7779623,12056621,Buy Now Purchase,1
+23,171,7781522,12046100,Credit Package Purchase,1
+24,172,7782452,12046100,Auction Win,1
+24,172,7782749,12046328,Auction Win,1
+25,173,7788401,12046328,Auction Win,1
+25,175,7792742,12032252,Credit Package Purchase,1
+25,175,7793015,12032252,Credit Package Purchase,1
+25,175,7793213,12032252,Credit Package Purchase,1
+28,179,7808681,12027425,Credit Package Purchase,1
+28,179,7808723,12027425,Auction Win,1
+28,177,7808768,12040151,Credit Package Purchase,1
+29,175,7812545,12054092,Auction Win,1
+29,175,7812557,12054092,Auction Win,1
+29,174,7813778,12059156,Credit Package Purchase,1
+29,174,7813802,12059156,Auction Win,1
+30,178,7820024,12046844,Credit Package Purchase,1
+31,176,7825214,12059156,Credit Package Purchase,1
+31,181,7826531,12035366,Credit Package Purchase,1
+5,183,7850702,12049712,Auction Win,1
+5,185,7851734,12038948,Auction Win,1
+8,186,7868528,12049712,Buy Now Purchase,1
+13,193,7890614,12037592,Credit Package Purchase,1
+13,193,7890644,12037592,Credit Package Purchase,1
+19,199,7918484,12041672,Credit Package Purchase,1
+20,197,7928648,12056621,Buy Now Purchase,1
+21,201,7931522,12041672,Credit Package Purchase,1
+23,203,7946351,12041672,Buy Now Purchase,1
+24,206,7954001,12027302,Credit Package Purchase,1
+25,205,7958654,12041672,Credit Package Purchase,1
+25,205,7958930,12041672,Buy Now Purchase,1
+27,207,7973219,12041672,Buy Now Purchase,1
+27,207,7973234,12041672,Buy Now Purchase,1
+30,212,7986947,12026516,Credit Package Purchase,1
+5,215,8026607,12041672,Credit Package Purchase,1
+10,218,8057216,12051596,Credit Package Purchase,1
+12,220,8075876,12051596,Auction Win,1
+12,220,8075879,12051596,Buy Now Purchase,1
+12,220,8075885,12051596,Buy Now Purchase,1
+15,224,8094818,12045749,Credit Package Purchase,1
+15,224,8094827,12045749,Auction Win,1
+15,227,8095844,12026489,Credit Package Purchase,1
+24,236,8153594,12026699,Credit Package Purchase,1
+24,236,8153780,12026699,Auction Win,1
+24,230,8155793,12062852,Credit Package Purchase,1
+24,230,8155961,12062852,Credit Package Purchase,1
+24,230,8157209,12062852,Auction Win,1
+25,231,8162585,12062852,Credit Package Purchase,1
+25,231,8163890,12062852,Credit Package Purchase,1
+26,238,8169812,12026699,Credit Package Purchase,1
+26,238,8172179,12026699,Buy Now Purchase,1
+26,232,8173253,12062852,Credit Package Purchase,1
+26,232,8174564,12062852,Credit Package Purchase,1
+26,232,8175701,12062852,Buy Now Purchase,1
+27,235,8185538,12051155,Credit Package Purchase,1
+29,236,8201630,12053012,Credit Package Purchase,1
+30,236,8214152,12062852,Buy Now Purchase,1
+2,239,8232116,12062852,Buy Now Purchase,1
+2,239,8232155,12062852,Auction Win,1
+4,245,8250290,12038783,Credit Package Purchase,1
+5,246,8256989,12042257,Credit Package Purchase,1
+5,246,8258723,12037883,Auction Win,1
+5,246,8261075,12042257,Auction Win,1
+5,246,8261087,12042257,Auction Win,1
+8,247,8284676,12049958,Credit Package Purchase,1
+8,247,8284922,12049958,Auction Win,1
+9,248,8288321,12049958,Auction Win,1
+9,250,8291603,12038081,Credit Package Purchase,1
+10,247,8298515,12060128,Credit Package Purchase,1
+11,251,8303405,12043904,Credit Package Purchase,1
+11,251,8303939,12043904,Credit Package Purchase,1
+11,251,8304590,12043904,Credit Package Purchase,1
+11,251,8304701,12043904,Credit Package Purchase,1
+11,251,8304818,12043904,Credit Package Purchase,1
+11,251,8304905,12043904,Credit Package Purchase,1
+12,252,8307608,12043904,Auction Win,1
+12,251,8308877,12049715,Credit Package Purchase,1
+12,251,8309018,12049715,Auction Win,1
+13,253,8313452,12043904,Buy Now Purchase,1
+17,258,8334821,12038561,Auction Win,1
+17,258,8336084,12037394,Credit Package Purchase,1
+18,260,8340857,12032750,Credit Package Purchase,1
+18,260,8340893,12032750,Credit Package Purchase,1
+18,260,8340920,12032750,Credit Package Purchase,1
+18,260,8340944,12032750,Credit Package Purchase,1
+18,260,8340968,12032750,Credit Package Purchase,1
+18,260,8341001,12032750,Credit Package Purchase,1
+24,265,8370650,12038783,Buy Now Purchase,1
+26,269,8376239,12030830,Credit Package Purchase,1
+26,264,8377295,12054368,Credit Package Purchase,1
+27,265,8380661,12054368,Buy Now Purchase,1
+28,266,8386247,12054368,Auction Win,1
+2,270,8404295,12054368,Auction Win,1
+2,274,8404532,12034058,Credit Package Purchase,1
+7,280,8435903,12030830,Buy Now Purchase,1
+7,280,8435918,12030830,Buy Now Purchase,1
+8,279,8439671,12037394,Buy Now Purchase,1
+15,286,8479433,12037118,Credit Package Purchase,1
+15,286,8479448,12037118,Auction Win,1
+18,289,8490704,12040931,Credit Package Purchase,1
+21,288,8509769,12057836,Credit Package Purchase,1
+21,288,8509835,12057836,Auction Win,1
+23,290,8517572,12059255,Credit Package Purchase,1
+27,295,8536772,12057752,Credit Package Purchase,1
+8,310,8594150,12039983,Credit Package Purchase,1
+21,321,8662262,12051815,Credit Package Purchase,1
+21,321,8662331,12051815,Auction Win,1
+21,321,8662385,12051815,Buy Now Purchase,1
+22,322,8667011,12051815,Buy Now Purchase,1
+27,330,8697215,12036419,Credit Package Purchase,1
+27,330,8697302,12036419,Auction Win,1
+30,333,8712710,12032744,Credit Package Purchase,1
+30,333,8713442,12032744,Auction Win,1
+2,331,8729984,12057836,Credit Package Purchase,1
+2,331,8730017,12057836,Credit Package Purchase,1
+3,332,8731235,12057836,Credit Package Purchase,1
+8,337,8762477,12057836,Credit Package Purchase,1
+8,337,8762612,12057836,Credit Package Purchase,1
+8,337,8762621,12057836,Credit Package Purchase,1
+8,337,8762636,12057836,Credit Package Purchase,1
+9,338,8768468,12057836,Credit Package Purchase,1
+10,339,8773577,12057836,Credit Package Purchase,1
+21,352,8829059,12051482,Credit Package Purchase,1
+21,352,8835617,12049382,Credit Package Purchase,1
+28,357,8873846,12057836,Credit Package Purchase,1
+29,358,8876693,12057836,Buy Now Purchase,1
+29,358,8877302,12057836,Credit Package Purchase,1
+2,363,8890970,12051203,Credit Package Purchase,1
